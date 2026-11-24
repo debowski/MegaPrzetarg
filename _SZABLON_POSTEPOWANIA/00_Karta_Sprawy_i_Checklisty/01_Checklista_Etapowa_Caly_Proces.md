@@ -48,14 +48,14 @@
 
 ## ETAP 6: Środki ochrony prawnej i podpisanie umowy (Foldery `06_` i `07_`)
 - [ ] Odczekano okres **standstill** (5 dni PL / 10 dni UE drogą elektroniczną, chyba że złożono tylko 1 ofertę).
-- [ ] W razie odwołania do KIO: niezwłoczne powiadomienie pozostałych wykonawców (kopia odwołania + wezwanie do przystąpienia w ciągu 2 dni), przygotowanie odpowiedzi na odwołanie, wstrzymanie zawarcia umowy do wyroku KIO (art. 577 Pzp).
+- [ ] W razie odwołania do KIO: niezwłoczne powiadomienie pozostałych wykonawców (kopia odwołania + **3 dni** na przystąpienie — art. 525 ust. 1 Pzp), obowiązkowa odpowiedź w terminie wyznaczonym przez Prezesa KIO (min. 5 dni — art. 521), złożenie dowodów przed rozprawą (art. 535), wstrzymanie zawarcia umowy do wyroku KIO (art. 577 Pzp).
 - [ ] Zweryfikowano ZNWU (do 5% / 10%), umowę konsorcjum (art. 59 Pzp), wykaz podwykonawców, polisę OC, pełnomocnictwa.
 - [ ] Uzyskano **kontrasygnatę Skarbnika Gminy** (art. 46 ust. 3 u.s.g.) i podpisano umowę w formie pisemnej lub elektronicznej (kwalifikowany podpis).
 - [ ] Zwrócono wadia pozostałym (i wybranemu po zawarciu umowy / wniesieniu ZNWU) w ciągu max **7 dni** (art. 98 Pzp).
 - [ ] Opublikowano **ogłoszenie o wyniku / udzieleniu zamówienia** w ciągu **30 dni** (BZP art. 309 / DUUE art. 265).
 
 ## ETAP 7: Realizacja, sprawozdawczość i archiwizacja (Foldery `08_` i `09_`)
-- [ ] Monitorowano zmiany umowy (art. 455 Pzp) i publikowano ogłoszenia o zmianie umowy w terminie **30 dni**.
+- [ ] Monitorowano zmiany umowy (art. 455 Pzp); ogłoszenie o zmianie umowy zamieszczono **niezwłocznie po zmianie** (ustawa nie daje sztywnego terminu; w praktyce do 30 dni) i **wyłącznie** dla zmian z art. 455 ust. 1 pkt 3 i 4.
 - [ ] Sporządzono raport z realizacji umowy (art. 446 Pzp), jeśli wystąpiły przesłanki ustawowe.
 - [ ] Opublikowano obowiązkowe **ogłoszenie o wykonaniu umowy w BZP w ciągu 30 dni** od zakończenia umowy (art. 448 Pzp).
 - [ ] Zwrócono ZNWU (70% w 30 dni od odbioru; 30% w 15 dni po rękojmi/gwarancji — art. 453 Pzp).

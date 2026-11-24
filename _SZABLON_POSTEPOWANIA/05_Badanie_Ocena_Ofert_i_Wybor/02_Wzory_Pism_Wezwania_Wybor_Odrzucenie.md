@@ -126,3 +126,76 @@ Zamawiający unieważnia postępowanie pn. **`[Nazwa zamówienia]`**, znak spraw
 
 Z poważaniem,  
 `[Imię i nazwisko]` / Gmina `[Nazwa]`
+
+---
+
+## WZÓR 6: Wezwanie do wyjaśnienia treści oferty (art. 223 ust. 1 Pzp)
+
+**Miejscowość, dnia `[RRRR-MM-DD]`**
+
+**Wykonawca:** `[Nazwa i adres]` / e-mail: `[...]`
+
+Dotyczy: postępowania pn. **`[Nazwa zamówienia]`**, znak sprawy **`[...]`**.
+
+Działając na podstawie **art. 223 ust. 1 ustawy Pzp**, Zamawiający wzywa do złożenia wyjaśnień dotyczących treści złożonej oferty w zakresie:
+
+1. `[Dokładnie opisać wątpliwość — np. „w formularzu ofertowym podano termin wykonania 45 dni, podczas gdy OPZ (§ 4) wymaga 30 dni — wyjaśnić, który termin wiąże Wykonawcę"]`;
+2. `[...]`.
+
+**Termin złożenia wyjaśnień:** `[RRRR-MM-DD]` *(termin wyznaczony przez Zamawiającego, proporcjonalny do zakresu wyjaśnień)*.
+
+Wyjaśnienia należy złożyć za pośrednictwem platformy `[URL]`, w formie pisemnej.
+
+> **Uwaga prawna:** wyjaśnienia nie mogą prowadzić do negocjacji ani zmiany treści oferty (art. 223 ust. 1 zdanie drugie Pzp). Jeśli wyjaśnienia okażą się nieskuteczne, Zamawiający rozważy odrzucenie oferty na podstawie art. 226 ust. 1 pkt `[...]` Pzp.
+
+Z poważaniem,  
+`[Imię i nazwisko]` / Gmina `[Nazwa]`
+
+---
+
+## WZÓR 7: Wezwanie do złożenia, poprawienia lub uzupełnienia podmiotowych środków dowodowych (art. 128 ust. 1 Pzp)
+
+**Miejscowość, dnia `[RRRR-MM-DD]`**
+
+**Wykonawca:** `[Nazwa i adres]` / e-mail: `[...]`
+
+Dotyczy: postępowania pn. **`[Nazwa zamówienia]`**, znak sprawy **`[...]`**.
+
+Zamawiający wzywa — na podstawie **art. 128 ust. 1 ustawy Pzp** — do złożenia, poprawienia lub uzupełnienia następujących podmiotowych środków dowodowych:
+
+| L.p. | Dokument / oświadczenie | Powód wezwania (niekompletny / wadliwy / złożony po terminie) | Wymagany zakres |
+| :--: | :-- | :-- | :-- |
+| 1 | | | |
+| 2 | | | |
+
+**Termin złożenia:** `[RRRR-MM-DD]`. Dokumenty muszą być **aktualne na dzień ich złożenia** (art. 128 ust. 2 Pzp).
+
+> **Uwaga:** art. 128 ust. 1 Pzp przewiduje **jedno** wezwanie. W praktyce termin powinien być nie krótszy niż 5 dni (procedura krajowa) / 10 dni (procedura unijna). Nie myl tego z wezwaniem do złożenia PSD od wykonawcy najwyżej ocenionego (art. 274 / 126 Pzp — WZÓR 2 powyżej). Jeśli Wykonawca nie uzupełni dokumentów w wyznaczonym terminie, Zamawiający wykluczy go z postępowania.
+
+Z poważaniem,  
+`[Imię i nazwisko]` / Gmina `[Nazwa]`
+
+---
+
+## WZÓR 8: Zawiadomienie o poprawieniu omyłki w ofercie (art. 223 ust. 2 Pzp)
+
+**Miejscowość, dnia `[RRRR-MM-DD]`**
+
+**Wykonawca:** `[Nazwa i adres]` / e-mail: `[...]`
+
+Dotyczy: postępowania pn. **`[Nazwa zamówienia]`**, znak sprawy **`[...]`**.
+
+W toku badania oferty Zamawiający, działając na podstawie **art. 223 ust. 2 pkt `[1 / 2 / 3]` ustawy Pzp**, poprawił w ofercie z dnia `[RRRR-MM-DD]` następującą omyłkę:
+
+| Przed poprawą | Po poprawie | Podstawa (pkt 1 / 2 / 3) |
+| :-- | :-- | :-- |
+| | | |
+
+**Dla omyłki z pkt 3** *(inna omyłka polegająca na niezgodności oferty z dokumentami zamówienia, niepowodująca istotnych zmian w treści oferty)*:
+
+Zamawiający wyznacza termin na **wyrażenie zgody albo zakwestionowanie poprawienia omyłki**: do dnia `[RRRR-MM-DD]`. **Brak odpowiedzi w wyznaczonym terminie uznaje się za wyrażenie zgody** (art. 223 ust. 3 Pzp). Zakwestionowanie poprawienia w tym terminie skutkuje odrzuceniem oferty na podstawie art. 226 ust. 1 pkt 11 Pzp.
+
+**Dla omyłek z pkt 1 i 2** (oczywiste omyłki pisarskie i rachunkowe): Zamawiający poprawia je z urzędu, z uwzględnieniem konsekwencji rachunkowych, niezwłocznie zawiadamiając Wykonawcę — zgoda nie jest wymagana.
+
+Z poważaniem,  
+`[Imię i nazwisko]` / Gmina `[Nazwa]`

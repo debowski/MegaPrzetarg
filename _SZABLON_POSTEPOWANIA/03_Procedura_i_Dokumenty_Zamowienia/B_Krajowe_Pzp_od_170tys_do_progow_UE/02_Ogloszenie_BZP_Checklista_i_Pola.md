@@ -40,5 +40,5 @@ Każda rozbieżność pomiędzy ogłoszeniem w BZP a treścią SWZ stanowi błą
 | Ogłoszenie o zamówieniu (pierwotne) | | | |
 | Ogłoszenie o zmianie ogłoszenia nr 1 (art. 286 Pzp) | | | *Czy zmieniono termin składania ofert?* |
 | Ogłoszenie o wyniku postępowania (art. 309 Pzp — 30 dni) | | | |
-| Ogłoszenie o zmianie umowy (art. 455 ust. 3 — 30 dni) | | | |
+| Ogłoszenie o zmianie umowy (art. 455 ust. 3 — tylko zmiany z pkt 3 i 4; niezwłocznie po zmianie, w praktyce do 30 dni; brak sztywnego terminu ustawowego i brak progu 15 000 EUR) | | | |
 | Ogłoszenie o wykonaniu umowy (art. 448 Pzp — 30 dni) | | | |

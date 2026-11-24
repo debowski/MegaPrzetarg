@@ -12,7 +12,7 @@
 - [ ] Wykonawca **wniósł Zabezpieczenie Należytego Wykonania Umowy (ZNWU)** w wymaganej formie i kwocie:
   - Kwota ZNWU: `[X%]` × `[cena całkowita]` = **`[kwota]` PLN** (max 5% / wyjątkowo do 10% przy uzasadnieniu w SWZ — art. 452 Pzp).
   - Forma ZNWU: `[pieniądz / gwarancja bankowa / ubezpieczeniowa / inne]`.
-  - Sprawdzono treść gwarancji: bezwarunkowa, nieodwołalna, płatna na pierwsze pisemne żądanie Gminy, właściwy zamawiający i zakres ryzyk (art. 449 Pzp), okres ważności pokrywa termin realizacji + 30 dni na roszczenia z tytułu rękojmi.
+  - Sprawdzono treść gwarancji: bezwarunkowa, nieodwołalna, płatna na pierwsze pisemne żądanie Gminy, właściwy zamawiający i zakres ryzyk (art. 449 Pzp), **okres ważności musi pokrywać cały okres realizacji ORAZ okres rękojmi/gwarancji** — 30% zabezpieczenia wraca dopiero w 15. dniu po upływie rękojmi/gwarancji (art. 453 ust. 2–3 Pzp), więc wpis „termin realizacji + 30 dni" jest błędny.
 - [ ] Wykonawcy tworzący **konsorcjum** złożyli umowę regulującą ich współpracę (art. 59 Pzp) — sprawdzono, kto jest liderem i pełnomocnikiem do reprezentacji.
 - [ ] Sprawdzono aktualność **polisy OC** wykonawcy (jeśli wymagana w SWZ/PPU).
 - [ ] Wykonawca złożył **wykaz podwykonawców** ze wskazaniem części zamówienia, które powierzy.

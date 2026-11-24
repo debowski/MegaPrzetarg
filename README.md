@@ -4,9 +4,9 @@ Profesjonalny, gotowy do użycia zestaw folderów, wzorów pism, list kontrolnyc
 
 ## Czy projekt jest gotowy?
 
-**Tak.** Po weryfikacji prawnej z dnia **24 listopada 2026 r.** zestaw jest kompletny: zawiera cały cykl postępowania (od wniosku wydziału po archiwizację), ścieżki A/B/C/D, wzory dokumentów i rejestry oraz narzędzia uzupełniające (regulamin podprogowy, słownik, historia wersji, szkielet umowy, karty oceny, odpowiedź na odwołanie). Poprawiono też znalezione błędy (termin przystąpienia do KIO, progi raportu z art. 446, zasada ogłaszania zmian umowy, druk protokołu dla art. 275 pkt 3).
+**Tak.** Po audycie i weryfikacji prawnej z dnia **25 listopada 2026 r.** zestaw jest kompletny: zawiera cały cykl postępowania (od wniosku wydziału po archiwizację), ścieżki A/B/C/D, wzory dokumentów i rejestry oraz narzędzia uzupełniające (regulamin podprogowy, słownik, historia wersji, szkielet umowy, karty oceny, odpowiedź na odwołanie, konkurs i zamówienia zastrzeżone). Poprawiono znalezione błędy (termin przystąpienia do KIO, progi raportu z art. 446, zasada ogłaszania zmian umowy, druk protokołu dla art. 275 pkt 3, okres ważności ZNWU). Wersja zestawu: **1.2**.
 
-> **Ważne:** to narzędzie pracy, nie porada prawna. Przed każdym postępowaniem sprawdź aktualny tekst przepisów w ISAP/ELI, obwieszczenia UZP i umowę o dofinansowanie. Zestaw odzwierciedla stan prawny na **24.11.2026 r.** — zob. [`00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md`](./00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md).
+> **Ważne:** to narzędzie pracy, nie porada prawna. Przed każdym postępowaniem sprawdź aktualny tekst przepisów w ISAP/ELI, obwieszczenia UZP i umowę o dofinansowanie. Zestaw odzwierciedla stan prawny na **25.11.2026 r.** — zob. [`00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md`](./00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md). Od **1.12.2026 r.** wchodzą w życie zmiany art. 214 i 364 Pzp, a od **1.01.2027 r.** art. 112 Pzp — sprawdź je przed wszczęciem postępowania.
 
 ---
 
@@ -32,6 +32,7 @@ Profesjonalny, gotowy do użycia zestaw folderów, wzorów pism, list kontrolnyc
 MegaPrzetarg/
 ├── README.md
 ├── LICENSE
+├── .opencode/skills/gminne-zamowienia-publiczne/ # Pakiet skilla: 3 references + 3 templates
 ├── 00_Baza_Wiedzy_i_Progi/                       # Baza referencyjna — NIE kopiować do spraw
 │   ├── 01_Progi_i_Terminy_2026_2027.md           # Progi PL/UE, terminy, zmiany 2026 (ściągawka)
 │   ├── 02_Matryca_Wyboru_Trybu_i_Zgodnosci.md    # Drzewo decyzyjne A1/A2/B/C/D + obowiązki
@@ -54,10 +55,11 @@ MegaPrzetarg/
     │   │                                         #   formularz oferty, państwa trzecie, PROTOKÓŁ NEGOCJACJI
     │   ├── C_Unijne_Pzp_powyzej_progow_UE/       # SWZ art. 132, JEDZ/TED/eNotices2
     │   └── D_Tryby_Szczegolne_i_Niekonkurencyjne/ # Wolna ręka, usługi społeczne, in-house,
-    │                                             #   UMOWA RAMOWA/DSZ/AUKCJA, WSPÓLNE ZAMÓWIENIA art. 38
+    │                                             #   UMOWA RAMOWA/DSZ/AUKCJA, WSPÓLNE ZAMÓWIENIA art. 38,
+    │                                             #   KONKURS art. 325–358, ZAMÓWIENIA ZASTRZEŻONE art. 94 (30%)
     ├── 04_Wyjasnienia_Zmiany_SWZ_i_Otwarcie/     # Pytania, zmiany SWZ, art. 222, otwarcie ofert
     ├── 05_Badanie_Ocena_Ofert_i_Wybor/           # Checklista badania (ICT!), wzory pism, sankcje,
-    │                                             #   KARTA OCENY CZŁONKA KOMISJI
+    │                                             #   KARTA OCENY CZŁONKA KOMISJI, WZORY: art. 223, 128, omyłki
     ├── 06_Srodki_Ochrony_Prawnej_KIO/            # Terminy, standstill, rejestr odwołań,
     │                                             #   WZÓR ODPOWIEDZI NA ODWOŁANIE (reguły od 13.03.2026)
     ├── 07_Umowa_ZNWU_Ogloszenia_Po_Wyborze/      # Checklista umowy (kontrasygnata, KSeF/PEF), ZNWU
@@ -100,6 +102,6 @@ Nazwy folderów i plików nie zawierają polskich znaków ani spacji (zgodnie z 
 
 ## Utrzymanie
 
-Sprawdzaj kwartalnie `00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md` (lista kontrolna aktualizacji) oraz strony: ISAP/ELI, gov.pl/web/uzp, gov.pl/web/mswia, e-Zamówienia, Baza Konkurencyjności, BIP Ministerstwa Cyfryzacji (rekomendacje ICT). Zmiany wpisuj do historii wersji i rozsyłaj do wydziałów merytorycznych.
+Sprawdzaj kwartalnie `00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md` (lista kontrolna aktualizacji) oraz strony: ISAP/ELI, gov.pl/web/uzp, gov.pl/web/mswia, e-Zamówienia, Baza Konkurencyjności, BIP Ministerstwa Cyfryzacji (rekomendacje ICT). Zmiany wpisuj do historii wersji i rozsyłaj do wydziałów merytorycznych. W pakiecie skilla (`.opencode/skills/gminne-zamowienia-publiczne/`) znajdują się skrócone materiały decyzyjne (`references/`) i karty robocze (`templates/`) — aktualizuj je razem z bazą wiedzy.
 
-**Podstawa prawna (stan na 24.11.2026):** ustawa z 11.09.2019 r. – Pzp (t.j. **Dz.U. 2026 poz. 793**); obwieszczenie Prezesa UZP z 8.12.2025 r. (**M.P. 2025 poz. 1247**); ustawa z 25.07.2025 r. (**Dz.U. 2025 poz. 1173**); ustawa z 9.07.2025 r. (**Dz.U. 2025 poz. 1165**); ustawa o certyfikacji wykonawców (**Dz.U. 2025 poz. 1235**); dyrektywa 2014/24/UE; rozporządzenia wykonawcze eForms 2019/1780 i ESPD 2016/7; rozporządzenie Rady (UE) 833/2014 art. 5k; RODO; wytyczne kwalifikowalności 2021–2027.
+**Podstawa prawna (stan na 25.11.2026):** ustawa z 11.09.2019 r. – Pzp (t.j. **Dz.U. 2026 poz. 793**); obwieszczenie Prezesa UZP z 8.12.2025 r. (**M.P. 2025 poz. 1247**); ustawa z 25.07.2025 r. (**Dz.U. 2025 poz. 1173**); ustawa z 9.07.2025 r. (**Dz.U. 2025 poz. 1165**); ustawa o certyfikacji wykonawców (**Dz.U. 2025 poz. 1235**); dyrektywa 2014/24/UE; rozporządzenia wykonawcze eForms 2019/1780 i ESPD 2016/7; rozporządzenie Rady (UE) 833/2014 art. 5k; RODO; wytyczne kwalifikowalności 2021–2027.
