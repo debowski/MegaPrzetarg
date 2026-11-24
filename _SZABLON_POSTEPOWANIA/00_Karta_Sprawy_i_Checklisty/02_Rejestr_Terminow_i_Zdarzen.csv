@@ -1,0 +1,24 @@
+Etap;Czynnosc_lub_Termin;Podstawa_Prawna;Termin_Ustawowy_Max_Min;Data_Planowana;Data_Realizacji;Osoba_Odpowiedzialna;Status;Uwagi
+1_Przygotowanie;Zatwierdzenie wniosku i zabezpieczenie srodkow w budzecie/WPF;art. 44 ufp / art. 46 usg;Przed wszczeciem;;;;Do zrobienia;
+1_Przygotowanie;Aktualizacja Planu Postepowan Pzp;art. 23 Pzp;Przed wszczeciem;;;;Do zrobienia;Nie dotyczy < 170 tys. PLN
+1_Przygotowanie;Protokol szacowania wartosci zamowienia;art. 28-36 Pzp;Nie wczesniej niz 3 mies. (D/U) lub 6 mies. (RB) przed wszczeciem;;;;Do zrobienia;Kurs 4,31 PLN/EUR
+1_Przygotowanie;Analiza Potrzeb i Wymagan (APiW);art. 83 Pzp (zm. Dz.U. 2025 poz. 1173);Obowiazkowa przed wszczeciem >= prog UE;;;;Do zrobienia;Uwzglednic art. 83 ust. 2 pkt 2 lit. c i ust. 3 pkt 3a
+3_Publikacja;Przekazanie ogloszenia do DUUE (tylko UE);art. 88 / art. 138 Pzp;Zakaz publikacji krajowej przed DUUE lub 48h;;;;Do zrobienia;eNotices2 / eForms
+3_Publikacja;Publikacja ogloszenia BZP / BK2021 i SWZ na stronie;art. 276 / art. 280 / BK2021;Dzien wszczecia;;;;Do zrobienia;
+4_W_Toku;Koniec terminu na pytania do SWZ od wykonawcow;art. 284 ust. 2 (PL) / art. 135 ust. 2 (UE);Min. 4 dni (PL) lub 14 dni (UE) przed skladaniem ofert;;;;Do zrobienia;
+4_W_Toku;Ostateczny termin na odpowiedzi Gminy na pytania;art. 284 ust. 2 (PL) / art. 135 ust. 2 (UE);Min. 2 dni (PL) lub 6 dni (UE) przed skladaniem ofert;;;;Do zrobienia;Spóźnienie = przedluzenie terminu ofert!
+4_W_Toku;Publikacja kwoty na sfinansowanie zamowienia;art. 222 ust. 4 Pzp;Najpozniej przed otwarciem ofert;;;;Do zrobienia;
+4_W_Toku;Termin skladania ofert;art. 283 (PL) / art. 138 (UE);Min. 7/14 dni (PL) lub 30/35 dni (UE);;;;Do zrobienia;
+4_W_Toku;Otwarcie ofert i publikacja informacji z otwarcia;art. 222 ust. 5 Pzp;Niezwlocznie po otwarciu;;;;Do zrobienia;
+4_W_Toku;Informacja do Prezesa UZP o zlozonych ofertach;art. 81 ust. 1 Pzp;Max 7 dni od otwarcia lub uniewaznienia;;;;Do zrobienia;Platforma e-Zamowienia
+5_Ocena;Uplyw Terminu Zwiazania Oferta (TZO);art. 307 (PL) / art. 220 (UE);Max 30 dni (PL) lub 90/120 dni (UE);;;;Do zrobienia;Mozliwe jednokrotne przedluzenie
+5_Ocena;Wezwanie do podmiotowych srodkow dowodowych;art. 274 (PL) / art. 126 (UE);Termin wyznaczony >= 5 dni (PL) lub >= 10 dni (UE);;;;Do zrobienia;Sprawdzic certyfikat z Dz.U. 2025 poz. 1235
+5_Ocena;Zawiadomienie o wyborze lub uniewaznieniu;art. 253 / art. 260 Pzp;Niezwlocznie po wyborze/uniewaznieniu;;;;Do zrobienia;
+6_KIO_Umowa;Koniec okresu standstill (zawieszenia umowy);art. 308 (PL) / art. 264 (UE);5 dni (PL) / 10 dni (UE) elektr. (wyjatek: 1 oferta);;;;Do zrobienia;
+7_Umowa;Kontrasygnata Skarbnika i podpisanie umowy;art. 46 ust. 3 usg / art. 432 Pzp;Po standstill i wniesieniu ZNWU;;;;Do zrobienia;
+7_Umowa;Zwrot wadium wykonawcom;art. 98 Pzp;Niezwlocznie, max 7 dni od przeslanki;;;;Do zrobienia;
+7_Umowa;Ogloszenie o wyniku / udzieleniu zamowienia;art. 309 (BZP) / art. 265 (DUUE);Max 30 dni od zakonczenia/zawarcia umowy;;;;Do zrobienia;
+8_Realizacja;Ogloszenie o wykonaniu umowy w BZP;art. 448 Pzp;Max 30 dni od wykonania umowy;;;;Do zrobienia;Dotyczy PL i UE!
+8_Realizacja;Zwrot I czesci ZNWU (70%);art. 453 ust. 1 Pzp;Max 30 dni od odbioru koncowego;;;;Do zrobienia;
+8_Realizacja;Zwrot II czesci ZNWU (30%);art. 453 ust. 3 Pzp;Max 15 dni po uplywie rekojmi/gwarancji;;;;Do zrobienia;
+9_Archiwum;Zamkniecie Protokolu ZP i archiwizacja JRWA;art. 71-78 Pzp;Min. 4 lata lub okres trwalosci UE;;;;Do zrobienia;
