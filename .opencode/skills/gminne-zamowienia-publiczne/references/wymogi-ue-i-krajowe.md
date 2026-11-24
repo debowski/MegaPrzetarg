@@ -1,6 +1,6 @@
 # Wymogi UE i krajowe — różnice i punkty wspólne
 
-> **Stan opracowania: 24.11.2026 r.** Terminy i wymogi poniżej odnoszą się do Pzp w brzmieniu t.j. Dz.U. 2026 poz. 793 oraz aktów wykonawczych obowiązujących w tej dacie. **Przed każdym postępowaniem sprawdź aktualny tekst ustawy, obwieszczenie UZP i wytyczne funduszy UE właściwe dla daty wszczęcia.**
+> **Stan opracowania: 25.11.2026 r.** Terminy i wymogi poniżej odnoszą się do Pzp w brzmieniu t.j. Dz.U. 2026 poz. 793 oraz aktów wykonawczych obowiązujących w tej dacie. **Przed każdym postępowaniem sprawdź aktualny tekst ustawy, obwieszczenie UZP i wytyczne funduszy UE właściwe dla daty wszczęcia.**
 
 ---
 

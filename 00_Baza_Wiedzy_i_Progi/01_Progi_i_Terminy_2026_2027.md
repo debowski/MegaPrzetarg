@@ -78,7 +78,7 @@ Dokument referencyjny dla **Wydziału Zamówień Publicznych Urzędu Gminy** (za
 
 ---
 
-## 5. Zmiany obowiązujące w 2026 r. — szybka ściągawka (stan na 24.11.2026)
+## 5. Zmiany obowiązujące w 2026 r. — szybka ściągawka (stan na 25.11.2026)
 
 | Od kiedy | Zmiana | Gdzie w szablonie |
 | :--- | :--- | :--- |

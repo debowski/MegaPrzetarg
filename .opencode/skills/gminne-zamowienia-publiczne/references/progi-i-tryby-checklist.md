@@ -1,6 +1,6 @@
 # Progi i tryby — matryca decyzyjna
 
-> **Stan opracowania: 24.11.2026 r.** (Pzp t.j. Dz.U. 2026 poz. 793). Kwoty poniżej są **netto (bez VAT)** i odzwierciedlają obwieszczenie Prezesa UZP z 8.12.2025 r. (**M.P. 2025 poz. 1247**, kurs **4,31 PLN/EUR**, obowiązuje 1.01.2026–31.12.2027) oraz dz.U. 2025 poz. 1173 (próg 170 000 zł od 1.01.2026).
+> **Stan opracowania: 25.11.2026 r.** (Pzp t.j. Dz.U. 2026 poz. 793). Kwoty poniżej są **netto (bez VAT)** i odzwierciedlają obwieszczenie Prezesa UZP z 8.12.2025 r. (**M.P. 2025 poz. 1247**, kurs **4,31 PLN/EUR**, obowiązuje 1.01.2026–31.12.2027) oraz dz.U. 2025 poz. 1173 (próg 170 000 zł od 1.01.2026).
 >
 > **Zawsze zweryfikuj** obowiązujące progi, kurs przeliczeniowy i tekst Pzp **na dzień wszczęcia postępowania** (ISAP/ELI, komunikaty UZP, Dz.U. UE). Nie traktuj tej tabeli jako substytutu aktualnego obwieszczenia.
 

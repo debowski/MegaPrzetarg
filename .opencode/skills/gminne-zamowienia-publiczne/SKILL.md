@@ -121,4 +121,4 @@ ponumerowanym drzewie zgodnym z etapami sprawy i JRWA, np.:
 - [`templates/szablon-wniosku-komorki.md`](./templates/szablon-wniosku-komorki.md) — wniosek komórki merytorycznej.
 - [`templates/checklista-przed-wszczeciem.md`](./templates/checklista-przed-wszczeciem.md) — kontrola przed publikacją/wszczęciem.
 
-Zawsze otwieraj właściwy plik `references/` przed zaproponowaniem ścieżki proceduralnej i właściwy plik `templates/` przed przygotowaniem dokumentu. Kwoty i terminy w references mają charakter informacyjny (stan na 24.11.2026) — weryfikuj je na dzień wszczęcia postępowania.
+Zawsze otwieraj właściwy plik `references/` przed zaproponowaniem ścieżki proceduralnej i właściwy plik `templates/` przed przygotowaniem dokumentu. Kwoty i terminy w references mają charakter informacyjny (stan na 25.11.2026) — weryfikuj je na dzień wszczęcia postępowania.
