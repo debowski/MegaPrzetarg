@@ -24,8 +24,8 @@ Dokument do obowiązkowej weryfikacji przez Wydział Zamówień Publicznych wsp�
 - [ ] Wskazano obowiązek zatrudnienia na umowę o pracę przez wykonawcę **oraz podwykonawców** wraz ze sposobem weryfikacji (oświadczenia, zanonimizowane kopie umów/ZUS) i sankcjami (kary umowne).
 
 ## 4. Aspekty środowiskowe, elektromobilność i fundusze UE
-- [ ] **Elektromobilność (art. 68 ust. 3 ustawy o elektromobilności i paliwach alternatywnych):** Zweryfikowano, czy zadanie publiczne zlecane przez Gminę podlega obowiązkowi zapewnienia min. udziału pojazdów elektrycznych lub napędzanych gazem ziemnym we flocie wykonawcy (dotyczy w szczególności JST > 50 tys. mieszkańców lub zadań objętych polityką transportową/odpadową gminy).
-- [ ] **Zielone zamówienia / efektywność energetyczna:** Uwzględniono klasy efektywności energetycznej, normy emisji spalin, materiały z recyklingu lub koszty cyklu życia (LCC), jeśli zasadne.
+- [ ] **Elektromobilność (art. 68a–68e ustawy o elektromobilności i paliwach alternatywnych):** Zweryfikowano progi udziału pojazdów elektrycznych/niskoemisyjnych przy **zakupie pojazdów lub usługach transportu** (od 1.01.2025 r. zniesiono sztywny wymóg z d. art. 68 ust. 3 przy zlecaniu zadań publicznych; od 1.01.2026 r. w miastach > 100 tys. mieszk. obowiązek zakupu wyłącznie autobusów zeroemisyjnych).
+- [ ] **Zielone zamówienia / efektywność energetyczna / NZIA:** Uwzględniono klasy efektywności energetycznej (dyr. UE 2023/1791 EED), normy emisji spalin, materiały z recyklingu lub koszty cyklu życia (LCC); w przetargach UE na technologie net-zero (fotowoltaika, pompy ciepła, magazyny energii) zastosowano wymogi środowiskowe i odporności dostaw z **art. 25 Rozporządzenia (UE) 2024/1735 (NZIA, od 30.06.2026 r.)**.
 - [ ] **Projekty UE / KPO (zasada DNSH):** W przypadku finansowania zewnętrznego sprawdzono zgodność OPZ z zasadą „nie czyń poważnych szkód” (DNSH), kryteriami horyzontalnymi UE oraz wytycznymi programu (np. zakaz podwójnego finansowania, prawidłowe oznaczenie projektu).
 
 ## 5. Przedmiotowe środki dowodowe (art. 104–107 Pzp)

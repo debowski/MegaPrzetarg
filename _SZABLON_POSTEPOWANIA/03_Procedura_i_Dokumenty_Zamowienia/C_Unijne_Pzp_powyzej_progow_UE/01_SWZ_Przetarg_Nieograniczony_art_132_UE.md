@@ -49,13 +49,13 @@
    - **Oświadczenie o aktualności informacji** zawartych w JEDZ oraz oświadczeniu sankcyjnym;
    - Wykaz robót/dostaw/usług + dowody należytego wykonania (referencje), wykaz osób, polisa OC/informacja banku (stosownie do postawionych warunków udziału).
    - *(Dla wykonawców zagranicznych: równoważne dokumenty zgodnie z § 4 Rozporządzenia w sprawie podmiotowych środków dowodowych).*
-3. **Certyfikacja wykonawców (Ustawa z 5.08.2025 r., Dz.U. 2025 poz. 1235 — od 12.07.2026 r.):** Zamawiający honoruje ważny certyfikat niepodlegania wykluczeniu lub certyfikat zdolności zamiast odpowiednich podmiotowych środków dowodowych.
+3. **Certyfikacja wykonawców (Ustawa z 5.08.2025 r., Dz.U. 2025 poz. 1235; rozp. Dz.U. 2026 poz. 709 i 1116 — od 12.07.2026 r.):** Zamawiający honoruje ważny certyfikat niepodlegania wykluczeniu lub certyfikat zdolności zamiast odpowiednich podmiotowych środków dowodowych.
 
 ## Rozdział VII. Wadium, terminy i kryteria oceny ofert
 1. **Wadium (art. 97 Pzp):** `[Nie wymaga się / Wymaga się w kwocie ... PLN — max 3% wartości zamówienia]`.
 2. **Termin składania ofert (art. 138 Pzp):** `[RRRR-MM-DD godz.]` *(min. 30 dni przy pełnej komunikacji elektronicznej z art. 138 ust. 4; min. 35 dni standard; min. 15 dni przy wstępnym ogłoszeniu / pilnej potrzebie z art. 138 ust. 2)*.
 3. **Termin związania ofertą (art. 220 Pzp):** do dnia `[RRRR-MM-DD]` *(max 90 dni, lub 120 dni przy wartości >= 20 mln EUR RB / 10 mln EUR D/U)*.
-4. **Kryteria oceny ofert (art. 242 i 246 Pzp):** `[Cena max 60% + Kryteria pozacenowe 40% — ze wzorami]`.
+4. **Kryteria oceny ofert (art. 242 i 246 Pzp):** `[Cena max 60% + Kryteria pozacenowe 40% — ze wzorami; przy technologiach net-zero uwzględnić wymogi środowiskowe i odporności dostaw z art. 25 Rozp. UE 2024/1735 (NZIA, od 30.06.2026 r.) oraz efektywność energetyczną z dyr. 2023/1791 (EED)]`.
 5. **Forma oferty (art. 63 ust. 1 Pzp):** W postępowaniu unijnym ofertę oraz JEDZ składa się pod rygorem nieważności w **formie elektronicznej (wyłącznie kwalifikowany podpis elektroniczny — podpis zaufany i osobisty NIE SĄ dopuszczalne w postępowaniach >= progów UE!)**.
 
 ## Rozdział VIII. Umowa, ZNWU, środki ochrony prawnej i RODO

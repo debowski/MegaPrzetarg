@@ -40,6 +40,7 @@
 | :-- | :-- | :-- | :-- |
 | **Ogłoszenie o wyniku postępowania (BZP)** — art. 309 ust. 1 Pzp | Max **30 dni** od zakończenia postępowania (zawarcia umowy lub unieważnienia) | | |
 | **Ogłoszenie o udzieleniu zamówienia (DUUE/TED)** — art. 265 ust. 1 Pzp *(tylko procedura UE!)* | Max **30 dni** od zawarcia umowy lub unieważnienia | | |
+| **Wpis umowy do Centralnego Rejestru Umów (CRU JSFP)** — art. 34a–34d u.f.p. *(od 1.07.2026 r.)* | Max **30 dni** od zawarcia umowy (bez progu kwotowego!) | | |
 | **Informacja do Prezesa UZP** — art. 81 Pzp | Max **7 dni** od otwarcia ofert (wypełnione wcześniej, ale warto odnotować) | | |
 
 ---

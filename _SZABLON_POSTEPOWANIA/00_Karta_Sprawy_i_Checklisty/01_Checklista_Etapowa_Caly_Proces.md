@@ -18,14 +18,14 @@
 - [ ] OPZ zweryfikowano pod kątem zakazu dyskryminacji i nazw własnych (art. 99 ust. 4–6 Pzp) — przy ew. wskazaniu znaku towarowego opisano kryteria równoważności.
 - [ ] Uwzględniono wymagania w zakresie **dostępności dla osób niepełnosprawnych / ze szczególnymi potrzebami** (art. 100 Pzp, WCAG 2.1, ustawa o zapewnianiu dostępności).
 - [ ] Zweryfikowano obowiązek z **art. 95 Pzp** (wymóg umowy o pracę dla czynności przy usługach i robotach budowlanych).
-- [ ] Zweryfikowano wymogi **elektromobilności** (art. 68 ust. 3 ustawy o elektromobilności — jeśli dotyczy danej gminy) oraz **DNSH / GPP** (jeśli projekt UE/KPO lub zielone zamówienia).
+- [ ] Zweryfikowano wymogi **elektromobilności** (art. 68a–68e ustawy o elektromobilności przy zakupie pojazdów / transporcie — brak dawnego wymogu z d. art. 68 ust. 3 przy zlecaniu zadań), **NZIA** (rozp. UE 2024/1735, art. 25, od 30.06.2026 r. przy technologiach net-zero w UE) oraz **DNSH / GPP** (jeśli projekt UE/KPO lub zielone zamówienia).
 - [ ] PPU (wzór umowy) zawiera: limit kar umownych (art. 436 pkt 3), termin zapłaty zgodny z ustawą o przeciwdziałaniu nadmiernym opóźnieniom (do 30 dni), klauzule zmian umowy (art. 455 ust. 1 pkt 1), klauzulę **waloryzacji** (jeśli umowa > 6 mies., art. 439), płatności częściowe/zaliczki (jeśli umowa > 12 mies., art. 443), zapisy dot. podwykonawców w robotach bud. (art. 464) oraz RODO (ew. umowa powierzenia art. 28 RODO).
 - [ ] Wzór umowy został zaopiniowany przez **Radcę Prawnego** Urzędu Gminy.
 
 ## ETAP 3: Dokumentacja procedury i publikacja (Folder `03_`)
 - [ ] Wybrano właściwy wariant dokumentów (`A` podprogowe / BK2021, `B` krajowe, `C` unijne, `D` szczególne).
 - [ ] Rozstrzygnięto w SWZ i ogłoszeniu kwestię wykonawców z **państw trzecich (art. 16a–16b Pzp)** — domyślny brak dopuszczenia czy świadome dopuszczenie na 5 płaszczyznach.
-- [ ] Uwzględniono w SWZ honorowanie dobrowolnych **certyfikatów wykonawców** (ustawa z 5.08.2025 r., Dz.U. 2025 poz. 1235, obowiązująca od 12.07.2026 r.).
+- [ ] Uwzględniono w SWZ honorowanie dobrowolnych **certyfikatów wykonawców** (ustawa z 5.08.2025 r., Dz.U. 2025 poz. 1235, obowiązująca od 12.07.2026 r.; rozporządzenia Dz.U. 2026 poz. 709 i 1116).
 - [ ] Uwzględniono podstawy wykluczenia: art. 108 (obligatoryjne), wybrane art. 109 (fakultatywne), **art. 7 ust. 1 ustawy sankcyjnej** oraz *(w UE)* **art. 5k Rozporządzenia Rady (UE) 833/2014**.
 - [ ] Sprawdzono spójność terminów w ogłoszeniu, SWZ i na platformie (składanie ofert, TZO, wadium, kryteria oceny ofert — waga ceny max 60% albo uzasadnienie z art. 246 ust. 2).
 - [ ] W postępowaniu unijnym: wygenerowano JEDZ/ESPD (XML) i przekazano ogłoszenie eForms do DUUE (eNotices2); zachowano zakaz publikacji krajowej przed publikacją w DUUE / upływem 48h (art. 88 Pzp).
@@ -53,9 +53,10 @@
 - [ ] Uzyskano **kontrasygnatę Skarbnika Gminy** (art. 46 ust. 3 u.s.g.) i podpisano umowę w formie pisemnej lub elektronicznej (kwalifikowany podpis).
 - [ ] Zwrócono wadia pozostałym (i wybranemu po zawarciu umowy / wniesieniu ZNWU) w ciągu max **7 dni** (art. 98 Pzp).
 - [ ] Opublikowano **ogłoszenie o wyniku / udzieleniu zamówienia** w ciągu **30 dni** (BZP art. 309 / DUUE art. 265).
+- [ ] Wpisano umowę do **Centralnego Rejestru Umów (CRU JSFP, art. 34a–34d u.f.p.)** w ciągu **30 dni** od zawarcia (obowiązek od 1.07.2026 r., bez progu kwotowego).
 
 ## ETAP 7: Realizacja, sprawozdawczość i archiwizacja (Foldery `08_` i `09_`)
-- [ ] Monitorowano zmiany umowy (art. 455 Pzp); ogłoszenie o zmianie umowy zamieszczono **niezwłocznie po zmianie** (ustawa nie daje sztywnego terminu; w praktyce do 30 dni) i **wyłącznie** dla zmian z art. 455 ust. 1 pkt 3 i 4.
+- [ ] Monitorowano zmiany umowy (art. 455 Pzp); ogłoszenie o zmianie umowy zamieszczono **niezwłocznie po zmianie** (ustawa nie daje sztywnego terminu; w praktyce do 30 dni) i **wyłącznie** dla zmian z art. 455 ust. 1 pkt 3 i 4; każdy aneks/rozwiązanie zaktualizowano w **CRU JSFP** (30 dni).
 - [ ] Sporządzono raport z realizacji umowy (art. 446 Pzp), jeśli wystąpiły przesłanki ustawowe.
 - [ ] Opublikowano obowiązkowe **ogłoszenie o wykonaniu umowy w BZP w ciągu 30 dni** od zakończenia umowy (art. 448 Pzp).
 - [ ] Zwrócono ZNWU (70% w 30 dni od odbioru; 30% w 15 dni po rękojmi/gwarancji — art. 453 Pzp).

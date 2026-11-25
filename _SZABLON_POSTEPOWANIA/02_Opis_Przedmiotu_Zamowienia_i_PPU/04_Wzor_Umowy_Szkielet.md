@@ -62,14 +62,14 @@ a **`[Pełna nazwa Wykonawcy]`**, `[adres]`, NIP `[...]`, REGON `[...]`, KRS/CEI
 ## § 9. Oświadczenia i zgodność z prawem
 1. Wykonawca oświadcza, że nie podlega wykluczeniu z art. 108/109 Pzp, art. 7 ust. 1 ustawy sankcyjnej oraz — w postępowaniu unijnym — art. 5k rozporządzenia (UE) 833/2014, a jego udział/rola nie narusza art. 16a–16b Pzp (państwa trzecie).
 2. Wykonawca nie może powierzyć realizacji ani użyć produktów/usług/procesów ICT objętych rekomendacją Pełnomocnika Rządu ds. Cyberbezpieczeństwa (art. 226 ust. 1 pkt 17 Pzp) lub decyzją o uznaniu dostawcy za wysokiego ryzyka (art. 226 ust. 1 pkt 19 Pzp); o zmianie źródła dostaw niezwłocznie zawiadomi Zamawiającego.
-3. Wykonawca zapewnia dostępność osobom ze szczególnymi potrzebami zgodnie z OPZ (art. 100 Pzp, ustawa z 19.07.2019 r.) oraz spełnia obowiązki elektromobilności (art. 68 ust. 3 ustawy z 11.01.2018 r.), jeśli dotyczy.
+3. Wykonawca zapewnia dostępność osobom ze szczególnymi potrzebami zgodnie z OPZ (art. 100 Pzp, ustawa z 19.07.2019 r.) oraz spełnia obowiązki elektromobilności (art. 68a–68e ustawy z 11.01.2018 r. przy zakupie pojazdów / usługach transportowych), jeśli dotyczy.
 
 ## § 10. RODO i poufność
 1. Jeśli Wykonawca przetwarza dane osobowe mieszkańców / pracowników Zamawiającego, strony zawierają **umowę powierzenia przetwarzania danych osobowych (art. 28 RODO)** — Załącznik nr `[...]`.
 2. Wykonawca zachowuje w tajemnicy informacje uzyskane w związku z umową; klauzula RODO Zamawiającego stanowi Załącznik nr `[...]`.
 
 ## § 11. Odstąpienie, unieważnienie, spory
-1. Zamawiającemu przysługuje prawo odstąpienia od umowy w przypadkach art. 456 Pzp oraz w terminie 30 dni od powzięcia wiadomości o istotnej zmianie okoliczności, gdy wykonanie umowy nie leży w interesie publicznym (art. 457 Pzp).
+1. Zamawiającemu przysługuje prawo odstąpienia od umowy w przypadkach art. 456 Pzp oraz w terminie 30 dni od powzięcia wiadomości o istotnej zmianie okoliczności, gdy wykonanie umowy nie leży w interesie publicznym (art. 457 Pzp). Formalne oświadczenia umowne (odstąpienie, wypowiedzenie, naliczenie kar) doręcza się z wykorzystaniem **e-Doręczeń (PURDE)**, zgodnie z ustawą z 18.11.2020 r. o doręczeniach elektronicznych.
 2. Spory rozstrzyga sąd właściwy dla siedziby Zamawiającego; strony dążą do polubownego rozwiązania.
 
 ## § 12. Postanowienia końcowe

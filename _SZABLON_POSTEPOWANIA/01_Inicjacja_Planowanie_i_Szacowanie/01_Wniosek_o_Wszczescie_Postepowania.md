@@ -46,8 +46,8 @@
    - Kryterium pozacenowe 1 (np. okres gwarancji / termin realizacji / aspekty środowiskowe lub społeczne): `[np. 40%]`
 4. **Czynności wymagające zatrudnienia na umowę o pracę (art. 95 Pzp — obowiązkowe przy usługach i robotach budowlanych):**
    - `[Wykaz konkretnych czynności pracowników fizycznych / operatorów / itp.]`
-5. **Dostępność dla osób ze szczególnymi potrzebami (art. 100 Pzp) oraz elektromobilność:**
-   - `[Opisać wymogi lub wskazać, dlaczego przedmiot zamówienia nie dotyczy osób fizycznych / nie wymaga floty]`
+5. **Dostępność dla osób ze szczególnymi potrzebami (art. 100 Pzp) oraz elektromobilność / NZIA:**
+   - `[Opisać wymogi lub wskazać, dlaczego przedmiot zamówienia nie dotyczy osób fizycznych / zakupu pojazdów z art. 68a–68e ustawy o elektromobilności / technologii net-zero z art. 25 NZIA]`
 6. **Specyficzne wymagania do projektu umowy:**
    - Wadium: `[NIE / TAK — proponowana kwota ...]`
    - Zabezpieczenie należytego wykonania umowy (ZNWU): `[NIE / TAK — proponowane %]`

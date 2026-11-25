@@ -62,6 +62,7 @@ Na podstawie **art. 455 ust. `[...]` pkt `[...]` ustawy Pzp**, Strony zgodnie zm
 - Zmiany z pkt 3 i pkt 4 nie mogą być stosowane w celu obejścia ustawy (art. 455 ust. 3 pkt 1 Pzp).
 - **Procedura krajowa:** ogłoszenie w **BZP** (e-Zamówienia). **Procedura unijna:** ogłoszenie o zmianie zamówienia w **DUUE (TED)** przez eNotices2/eForms.
 - Ustawa nie określa sztywnego terminu; przyjęta praktyka i wymogi ogłoszeniowe wskazują **publikację niezwłocznie, nie później niż w ciągu 30 dni od zmiany**.
+- **CRU JSFP (art. 34a u.f.p., od 1.07.2026 r.):** niezależnie od podstawy z art. 455 Pzp i wartości zmiany, każdy aneks / zmiana / wypowiedzenie umowy podlega aktualizacji w **Centralnym Rejestrze Umów** w terminie **30 dni**.
 
 | Nr aneksu | Data aneksu | Wartość zmiany (netto) | Obowiązek ogłoszenia? | Data publikacji ogłoszenia | Nr ogłoszenia |
 | :-- | :-- | ---: | :--: | :-- | :-- |

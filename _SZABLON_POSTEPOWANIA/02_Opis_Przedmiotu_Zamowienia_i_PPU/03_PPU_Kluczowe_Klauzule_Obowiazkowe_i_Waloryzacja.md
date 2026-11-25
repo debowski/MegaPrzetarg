@@ -48,4 +48,5 @@ Wskazać w PPU przejrzyste, jednoznaczne klauzule przeglądowe (rodzaj, zakres i
 - **Weryfikacja sankcyjna w trakcie realizacji (dot. UE):** W zamówieniach unijnych zastrzec obowiązek wykonawcy informowania o zmianach podwykonawców/dostawców w świetle art. 5k Rozp. 833/2014 (powyżej 10% wartości zamówienia).
 - **RODO:** Jeśli wykonawca będzie miał dostęp do danych osobowych mieszkańców (np. odpady, IT, dowóz dzieci, usługi opiekuńcze) — załącznikiem do umowy musi być **Umowa powierzenia przetwarzania danych osobowych (art. 28 RODO)**.
 - **Dostępność (ustawa z 19.07.2019 r.):** Klauzula zobowiązująca wykonawcę do zapewnienia dostępności osobom ze szczególnymi potrzebami przy realizacji zadania publicznego.
-- **Elektromobilność:** W razie podlegania pod art. 68 ust. 3 ustawy o elektromobilności — oświadczenie i prawo kontroli floty pojazdów.
+- **Elektromobilność:** Przy zakupie pojazdów lub usługach transportowych objętych art. 68a–68e ustawy o elektromobilności — wymagane progi i prawo kontroli.
+- **e-Doręczenia (PURDE):** Formalne oświadczenia w trakcie realizacji umowy (odstąpienie, kary umowne, wezwania w rygorze prawnym) doręcza się przez e-Doręczenia (obowiązek dla JST od 1.01.2026 r.).

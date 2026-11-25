@@ -44,7 +44,9 @@
 - [ ] **Cyberbezpieczeństwo ICT** — ustalono, czy zamówienie obejmuje produkty/usługi/procesy ICT (art. 226 ust. 1 pkt 17 i 19 Pzp, od 3.04.2026 r.).
 - [ ] **Państwa trzecie (art. 16a–16b Pzp)** — w Pzp wybrano wariant (brak dopuszczenia / dopuszczenie na 5 płaszczyzn) i wpisano do SWZ.
 - [ ] **Fundusze UE** — zasada konkurencyjności (jeśli > 80 000 PLN i < 170 000 PLN), DNSH, trwałość, brak podwójnego finansowania, kwalifikowalność podatków i kar.
-- [ ] **Certyfikacja wykonawców** — SWZ/oświadczenie art. 125 uwzględnia możliwość posługiwania się certyfikatem (od 12.07.2026 r.).
+- [ ] **Certyfikacja wykonawców** — SWZ/oświadczenie art. 125 uwzględnia możliwość posługiwania się certyfikatem (Dz.U. 2025 poz. 1235, Dz.U. 2026 poz. 709 i 1116, od 12.07.2026 r.).
+- [ ] **NZIA / EED (w UE)** — sprawdzono, czy przedmiot zamówienia obejmuje technologie net-zero (rozp. UE 2024/1735, art. 25, od 30.06.2026 r.) lub wymogi efektywności energetycznej (dyr. 2023/1791).
+- [ ] **CRU JSFP (art. 34a u.f.p.)** — po zawarciu umowy (od 1.07.2026 r.) wymagane zgłoszenie do Centralnego Rejestru Umów w ciągu 30 dni (bez progu kwotowego).
 - [ ] **Art. 91 ust. 2 Pzp** — sporządzono notatkę o podziale / braku podziału na części (zgodną z APiW i polityką zakupową 2026–2029 — Test MŚP).
 
 ## 5. Decyzja
