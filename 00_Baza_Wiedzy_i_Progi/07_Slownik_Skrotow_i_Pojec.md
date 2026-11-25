@@ -31,9 +31,11 @@ Szybka pomoc dla nowych pracowników i osób współpracujących z Wydziałem. O
 | **IPI / FSR** | Instrument Zamówień Międzynarodowych (rozp. UE 2022/1031) / Foreign Subsidies Regulation (rozp. UE 2022/2560) | `03_.../C.../01_` |
 | **art. 5k rozp. 833/2014** | Zakaz zamówień ≥ progów UE z udziałem podmiotów rosyjskich (> 10% wartości) | `05_.../03_` |
 | **art. 7 ust. 1 ustawy sankcyjnej** | Krajowa podstawa wykluczenia — dotyczy też zamówień poniżej progu i wyłączonych z Pzp (art. 7 ust. 9) | `05_.../03_` |
-| **e-Doręczenia** | Publiczna usługa rejestrowanego doręczenia elektronicznego — od 13.03.2026 r. kanał odwołań/przystąpień do KIO | `06_.../01_` |
+| **e-Doręczenia** | Publiczna usługa rejestrowanego doręczenia elektronicznego (PURDE) — od 1.01.2026 r. domyślny kanał korespondencji urzędowej (zamówienia podprogowe, oświadczenia umowne), a od 13.03.2026 r. także odwołań/przystąpień do KIO | `06_.../01_`, `08_Wzor_Regulaminu...` |
+| **CRU (CRU JSFP)** | Centralny Rejestr Umów prowadzony przez MF (art. 34a–34d u.f.p.) — obowiązek raportowania od 1.07.2026 r. każdej umowy będącej zamówieniem (art. 7 pkt 32 Pzp), bez progu kwotowego, w terminie 30 dni | `00_Baza.../02_Matryca...`, `08_Wzor_Regulaminu...` |
 | **KSeF / PEF** | Krajowy System e-Faktur / Platforma Elektronicznego Fakturowania — faktury i ich doręczanie | `02_.../03_`, `07_.../01_` |
-| **Certyfikat wykonawcy** | Dobrowolny certyfikat niepodlegania wykluczeniu / zdolności (Dz.U. 2025 poz. 1235, od 12.07.2026 r.) | `03_.../B.../03_` |
-| **Poziomy zdolności** | Znormalizowane opisy kwalifikacji i doświadczenia w robotach budowlanych — obowiązek od 1.01.2027 r. | `03_Wykaz_Aktow...` |
+| **Certyfikat wykonawcy** | Dobrowolny certyfikat niepodlegania wykluczeniu / zdolności (Dz.U. 2025 poz. 1235, Dz.U. 2026 poz. 709 i 1116, od 12.07.2026 r.) | `03_.../B.../03_` |
+| **Poziomy zdolności** | Znormalizowane opisy kwalifikacji i doświadczenia w robotach budowlanych — obowiązek od 1.01.2027 r. (Dz.U. 2026 poz. 1393) | `03_Wykaz_Aktow...` |
+| **NZIA / EED** | Rozp. (UE) 2024/1735 (od 30.06.2026 r. kryteria środowiskowe i odporności dla technologii net-zero) / Dyr. (UE) 2023/1791 (efektywność energetyczna w zamówieniach UE) | `00_Baza.../03_Wykaz_Aktow...` |
 | **Umowa ramowa / DSZ** | Umowa ramowa (art. 311–315 Pzp) / Dynamiczny system zakupów (art. 316–324 Pzp) | `03_.../D.../04_` |
 | **In-house** | Zamówienie od podmiotu kontrolowanego przez gminę (art. 214 ust. 1 pkt 11–14 Pzp) | `03_.../D.../03_` |

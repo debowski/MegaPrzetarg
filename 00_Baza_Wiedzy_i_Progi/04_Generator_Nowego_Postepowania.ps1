@@ -108,4 +108,4 @@ Write-Host "`nKolejne kroki:" -ForegroundColor Cyan
 Write-Host "  1. Sprawdz progi i tryb: 00_Baza_Wiedzy_i_Progi/01_Progi_i_Terminy_2026_2027.md"
 Write-Host "  2. Wypelnij 01_.../07_Notatka_Wyboru_Trybu_Zgodnosci.md i 02_Protokol_Szacowania..."
 Write-Host "  3. Pracuj od folderu 00_ do 10_, odhaczajac 01_Checklista_Etapowa_Caly_Proces.md"
-Write-Host "  4. Stan prawny zestawu: 24.11.2026 (06_Historia_Wersji_i_Aktualizacje.md)"
+Write-Host "  4. Stan prawny zestawu: 25.11.2026 (06_Historia_Wersji_i_Aktualizacje.md)"

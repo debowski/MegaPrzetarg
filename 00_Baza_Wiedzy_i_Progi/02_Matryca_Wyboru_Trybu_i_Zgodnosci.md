@@ -73,7 +73,12 @@ Czy wartość szacunkowa netto (+ zamówienia podobne/opcje) >= 170 000 PLN?
 | **Klauzule zatrudnienia (art. 95)** | Nie | Nie | **TAK** (usługi i roboty bud.) | **TAK** (usługi i roboty bud.) |
 | **Waloryzacja w umowie (art. 439)** | Dobra praktyka | Dobra praktyka | **TAK** (jeśli umowa > 6 mies.) | **TAK** (jeśli umowa > 6 mies.) |
 | **Ogłoszenie o wykonaniu umowy (art. 448)** | Nie | Nie | **TAK** (30 dni w BZP) | **TAK** (30 dni w BZP) |
+| **Centralny Rejestr Umów (CRU, art. 34a u.f.p., od 1.07.2026)** | **TAK** (30 dni, bez progu kwotowego*) | **TAK** (30 dni, bez progu kwotowego*) | **TAK** (30 dni, bez progu kwotowego*) | **TAK** (30 dni, bez progu kwotowego*) |
+| **NZIA (rozp. UE 2024/1735, od 30.06.2026) / EED** | Nie | Nie | Nie | **TAK** (przy technologiach net-zero / efektywności energ.) |
+| **Elektromobilność (art. 68a–68e, po zmianie 2025/2026)** | Nie | Nie | **TAK** (progi przy zakupie pojazdów; brak wymogu z d. art. 68 ust. 3) | **TAK** (progi przy zakupie pojazdów / autobusy zeroemisyjne) |
 | **Kontrasygnata Skarbnika Gminy** | **TAK** (art. 46 ust. 3 u.s.g.) | **TAK** (art. 46 ust. 3 u.s.g.) | **TAK** (art. 46 ust. 3 u.s.g.) | **TAK** (art. 46 ust. 3 u.s.g.) |
+
+*\*CRU dotyczy każdej umowy zawartej od 1.07.2026 r. w formie pisemnej, dokumentowej, elektronicznej lub innej szczególnej, stanowiącej zamówienie w rozumieniu art. 7 pkt 32 Pzp (urzędy gmin i jednostki budżetowe; nie dotyczy spółek komunalnych).*
 
 ---
 

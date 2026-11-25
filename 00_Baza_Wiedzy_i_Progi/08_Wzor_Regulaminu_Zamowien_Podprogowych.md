@@ -43,12 +43,14 @@
 3. Oferty ocenia komisja/zespół powołany przez Kierownika Zamawiającego; sporządza się protokół z wyboru wykonawcy z uzasadnieniem (art. 44 ust. 3 u.f.p.).
 4. Zamawiający zastrzega sobie prawo unieważnienia postępowania bez podania przyczyny oraz negocjacji ceny, gdy oferty przekraczają środki budżetowe (zapisz to w zapytaniu).
 5. Wybór wykonawcy wymaga akceptacji Kierownika Zamawiającego; umowę podpisuje się po sprawdzeniu list sankcyjnych i z kontrasygnatą Skarbnika.
+6. Formalne oświadczenia wobec wykonawców wywołujące skutki prawne poza dedykowaną platformą zakupową (np. odstąpienie od umowy, naliczenie kar umownych, wezwania w rygorze prawnym) doręcza się za pośrednictwem **e-Doręczeń (PURDE)** zgodnie z ustawą z 18.11.2020 r. o doręczeniach elektronicznych (obowiązek dla JST po zakończeniu okresu przejściowego od 1.01.2026 r.).
 
-### § 6. Dokumentacja i odpowiedzialność
+### § 6. Dokumentacja, CRU i odpowiedzialność
 
 1. Akta sprawy prowadzi się według konwencji `_SZABLON_POSTEPOWANIA/` (foldery `00_`–`10_`) i numeruje zgodnie z **JRWA 271** (postępowanie) oraz **272** (umowa).
 2. Dokumentację przechowuje się min. **4 lata** od zakończenia postępowania (art. 78 Pzp stosuje się odpowiednio), a w projektach UE/KPO — do końca okresu trwałości i rozliczenia.
-3. Za przestrzeganie regulaminu odpowiada kierownik wydziału merytorycznego oraz specjalista ds. zamówień publicznych; nieprzestrzeganie może stanowić naruszenie dyscypliny finansów publicznych.
+3. Każda umowa zawarta od **1.07.2026 r.** w formie pisemnej, dokumentowej, elektronicznej lub innej szczególnej, stanowiąca zamówienie w rozumieniu art. 7 pkt 32 Pzp — **niezależnie od wartości (brak progu kwotowego)** — podlega wpisowi do **Centralnego Rejestru Umów (CRU JSFP)** prowadzonego przez Ministra Finansów w terminie **30 dni** od jej zawarcia lub zmiany/aneksu (art. 34a–34d ustawy o finansach publicznych).
+4. Za przestrzeganie regulaminu (w tym terminowe przekazanie danych do CRU) odpowiada kierownik wydziału merytorycznego oraz specjalista ds. zamówień publicznych; nieprzestrzeganie może stanowić naruszenie dyscypliny finansów publicznych.
 
 ### § 7. Przepisy końcowe
 
