@@ -1,3 +1,17 @@
+---
+title: "Karta Audytu Końcowego Teczki przed Kontrolą (RIO / NIK / UZP / UE)"
+category: "checklista"
+stage: "archiwizacja"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Karta audytu końcowego teczki przed przekazaniem akt do archiwum
+  wykrywa braki formalne i rozbieżności dat przed kontrolą RIO/NIK/UZP/UE.
+---
+
 # Karta Audytu Końcowego Teczki przed Kontrolą (RIO / NIK / UZP / UE)
 
 Dokument wypełniany przez pracownika Wydziału ZP **przed zamknięciem sprawy i przekazaniem akt do archiwum zakładowego (JRWA 271 / 272)**. Służy wykryciu braków formalnych i rozbieżności dat, zanim zrobi to organ kontroli.

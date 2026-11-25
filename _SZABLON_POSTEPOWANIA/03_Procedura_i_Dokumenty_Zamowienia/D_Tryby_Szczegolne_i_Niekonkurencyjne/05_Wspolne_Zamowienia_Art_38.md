@@ -1,3 +1,17 @@
+---
+title: "Wspólne zamówienia gminy i jednostek gminnych (art. 38 Pzp)"
+category: "dokument"
+stage: "procedura"
+procedure: [D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Zasady sumowania wartości i dokumentowania wspólnych zamówień gminy
+  z jej jednostkami (art. 29–30 i 38 Pzp).
+---
+
 # Wspólne zamówienia gminy i jednostek gminnych (art. 38 Pzp)
 
 **Dotyczy:** zakupów realizowanych łącznie dla Urzędu Gminy oraz gminnych jednostek organizacyjnych (szkoły, przedszkola, OPS/CUS, ZGK, biblioteka, Dom Kultury) — np. energia elektryczna i gaz, paliwo, usługi telekomunikacyjne i IT, odbiór odpadów, ubezpieczenia, druk, artykuły spożywcze, wspólne inwestycje.

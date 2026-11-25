@@ -1,3 +1,17 @@
+---
+title: "Karta indywidualnej oceny oferty — członek Komisji Przetargowej"
+category: "dokument"
+stage: "badanie-ocena"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Karta indywidualnej i poufnej oceny oferty przez członka komisji
+  przetargowej według kryteriów określonych w SWZ.
+---
+
 # Karta indywidualnej oceny oferty — członek Komisji Przetargowej
 
 > **Zasada:** każdy członek Komisji ocenia oferty **samodzielnie**, według kryteriów z SWZ, bez dostępu do punktacji innych członków przed zsumowaniem wyników. Karty są poufne do momentu sporządzenia zestawienia zbiorczego; przechowuje się je jako załącznik do protokołu (dowód rzetelnej oceny na wypadek odwołania do KIO).

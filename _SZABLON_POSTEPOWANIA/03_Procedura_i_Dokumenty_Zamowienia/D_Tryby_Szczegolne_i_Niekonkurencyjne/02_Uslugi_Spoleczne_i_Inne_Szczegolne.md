@@ -1,3 +1,17 @@
+---
+title: "Usługi społeczne i inne szczególne usługi (art. 359–361 Pzp)"
+category: "dokument"
+stage: "procedura"
+procedure: [D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Zasady i przykłady stosowania reżimu usług społecznych oraz innych usług
+  szczególnych (art. 359–361 Pzp) w urzędzie gminy.
+---
+
 # Usługi społeczne i inne szczególne usługi (art. 359–361 Pzp)
 
 Przykłady w gminie: usługi opiekuńcze i asystenckie (OPS/CUS), dowóz i opieka osób z niepełnosprawnościami w zakresie opieki społecznej, usługi cateringowe/żywienie w szkołach (CPV 55520000-1), usługi edukacyjne/szkoleniowe, kulturalne, ochrona osób i mienia (CPV 79710000-4), usługi prawne nieobjęte wyłączeniem z art. 11.

@@ -1,3 +1,17 @@
+---
+title: "Protokół postępowania — Kompletność dokumentacji i wskazówki do wypełniania druku ZP"
+category: "protokół"
+stage: "archiwizacja"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Instrukcja kompletowania protokołu postępowania i wypełniania druku ZP
+  zgodnie z art. 70–78 Pzp oraz JRWA.
+---
+
 # Protokół postępowania — Kompletność dokumentacji i wskazówki do wypełniania druku ZP
 
 **Znak sprawy:** `[Uzupełnić]`  

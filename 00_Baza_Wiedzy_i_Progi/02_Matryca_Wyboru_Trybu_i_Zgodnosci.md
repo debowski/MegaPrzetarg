@@ -1,3 +1,17 @@
+---
+title: "Matryca wyboru trybu postępowania i weryfikacji zgodności (Urząd Gminy)"
+category: "baza-wiedzy"
+stage: "baza-wiedzy"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Drzewo decyzyjne wyboru ścieżki A1/A2/B/C/D wraz z obowiązkami i odwołaniami
+  do właściwych wzorów w szablonie postępowania.
+---
+
 # Matryca wyboru trybu postępowania i weryfikacji zgodności (Urząd Gminy)
 
 Dokument pomaga szybko zakwalifikować nowe zapotrzebowanie z wydziału merytorycznego do właściwej ścieżki prawnej i odpowiedniego podfolderu w `_SZABLON_POSTEPOWANIA/03_Procedura_i_Dokumenty_Zamowienia/`.

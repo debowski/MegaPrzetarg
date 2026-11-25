@@ -1,3 +1,17 @@
+---
+title: "Najczęstsze błędy i korekty (RIO / NIK / UZP / UE) — Ściągawka anty-kontrolna"
+category: "baza-wiedzy"
+stage: "baza-wiedzy"
+procedure: [A, B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Zestawienie najczęstszych naruszeń wykrywanych przez RIO, NIK, Prezesa UZP
+  oraz instytucje zarządzające, wraz z wskazówkami korekcyjnymi.
+---
+
 # Najczęstsze błędy i korekty (RIO / NIK / UZP / UE) — Ściągawka anty-kontrolna
 
 Zestawienie najczęstszych naruszeń wykrywanych w polskich urzędach gmin podczas kontroli **Regionalnych Izb Obrachunkowych (RIO)**, **Najwyższej Izby Kontroli (NIK)**, **Prezesa UZP** oraz **Instytucji Zarządzających funduszami UE/KPO**, wraz ze wskazaniem sankcji i miejsca zabezpieczenia w tym repozytorium.

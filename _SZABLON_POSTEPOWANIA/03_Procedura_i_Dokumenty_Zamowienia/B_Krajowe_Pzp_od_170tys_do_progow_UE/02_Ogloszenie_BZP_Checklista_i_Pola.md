@@ -1,3 +1,17 @@
+---
+title: "Checklista Ogłoszenia o Zamówieniu w BZP (Platforma e-Zamówienia)"
+category: "checklista"
+stage: "procedura"
+procedure: [B]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Lista kontrolna pól i sekcji ogłoszenia w Biuletynie Zamówień Publicznych
+  przed publikacją w platformie e-Zamówienia.
+---
+
 # Checklista Ogłoszenia o Zamówieniu w BZP (Platforma e-Zamówienia)
 
 **Podstawa prawna:** art. 267, art. 276 oraz art. 286 Pzp; Rozporządzenie w sprawie ogłoszeń zamieszczanych w BZP.  

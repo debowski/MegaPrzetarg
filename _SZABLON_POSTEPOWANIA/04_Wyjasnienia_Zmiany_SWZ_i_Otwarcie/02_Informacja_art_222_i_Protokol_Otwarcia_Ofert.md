@@ -1,3 +1,17 @@
+---
+title: "Protokół otwarcia ofert i Informacja z art. 222 ust. 4–5 Pzp"
+category: "protokół"
+stage: "wyjasnienia"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór protokołu otwarcia ofert oraz informacji z art. 222 ust. 4–5 Pzp
+  o kwocie przeznaczonej na zamówienie i złożonych ofertach.
+---
+
 # Protokół otwarcia ofert i Informacja z art. 222 ust. 4–5 Pzp
 
 **Znak sprawy:** `[Uzupełnić]`

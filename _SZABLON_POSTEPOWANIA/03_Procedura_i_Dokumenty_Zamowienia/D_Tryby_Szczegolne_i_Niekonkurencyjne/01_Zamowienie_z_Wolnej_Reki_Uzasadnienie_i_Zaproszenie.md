@@ -1,3 +1,17 @@
+---
+title: "Zamówienie z wolnej ręki — Uzasadnienie faktyczne/prawne, Ogłoszenie ex ante i Zaproszenie do negocjacji"
+category: "dokument"
+stage: "procedura"
+procedure: [D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Uzasadnienie faktyczne i prawne, ogłoszenie ex ante oraz zaproszenie do
+  negocjacji przy zamówieniu z wolnej ręki (art. 214 i 305 Pzp).
+---
+
 # Zamówienie z wolnej ręki — Uzasadnienie faktyczne/prawne, Ogłoszenie ex ante i Zaproszenie do negocjacji
 
 **Podstawa prawna:**

@@ -1,3 +1,17 @@
+---
+title: "Folder 10 — Korespondencja, oferty i potwierdzenia publikacji"
+category: "instrukcja"
+stage: "korespondencja"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Instrukcja organizacji foldera korespondencji, ofert i potwierdzeń
+  publikacji w toku postępowania.
+---
+
 # Folder 10 — Korespondencja, oferty i potwierdzenia publikacji
 
 Folder roboczy na dokumenty wpływające i wychodzące w toku postępowania.

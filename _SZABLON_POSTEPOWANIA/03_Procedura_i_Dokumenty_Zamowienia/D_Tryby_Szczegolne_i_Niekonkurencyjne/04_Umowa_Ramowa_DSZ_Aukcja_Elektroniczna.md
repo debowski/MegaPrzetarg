@@ -1,3 +1,17 @@
+---
+title: "Instrumenty szczególne: umowa ramowa, dynamiczny system zakupów, aukcja elektroniczna"
+category: "dokument"
+stage: "procedura"
+procedure: [D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Przewodnik po umowie ramowej, dynamicznym systemie zakupów i aukcji
+  elektronicznej (art. 311–324 oraz 227–238 Pzp).
+---
+
 # Instrumenty szczególne: umowa ramowa, dynamiczny system zakupów, aukcja elektroniczna
 
 **Zastosowanie:** powtarzalne zakupy gminne (energia, paliwo, papier, usługi telekomunikacyjne, drobne roboty interwencyjne, sprzęt IT). Wybór instrumentu wpływa na cały cykl — **rozstrzygnij przed wszczęciem i wpisz do notatki wyboru trybu** (`01_.../07_Notatka_Wyboru_Trybu_Zgodnosci.md`).

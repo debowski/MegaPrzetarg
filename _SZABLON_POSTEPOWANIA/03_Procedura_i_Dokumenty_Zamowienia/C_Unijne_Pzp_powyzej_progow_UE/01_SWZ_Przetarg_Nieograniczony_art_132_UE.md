@@ -1,3 +1,17 @@
+---
+title: "Specyfikacja Warunków Zamówienia (SWZ) — Przetarg Nieograniczony (Procedura Unijna Pzp)"
+category: "dokument"
+stage: "procedura"
+procedure: [C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór specyfikacji warunków zamówienia dla przetargu nieograniczonego
+  (art. 132 Pzp) w procedurze unijnej.
+---
+
 # Specyfikacja Warunków Zamówienia (SWZ) — Przetarg Nieograniczony (Procedura Unijna Pzp)
 
 **Znak postępowania:** `[Uzupełnić: np. ZP.271.X.2026]`  

@@ -1,3 +1,17 @@
+---
+title: "Checklista weryfikacji Opisu Przedmiotu Zamówienia (OPZ)"
+category: "checklista"
+stage: "opis-przedmiotu"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Lista kontrolna weryfikacji OPZ pod kątem jednoznaczności, dostępności,
+  równoważności i unikania wskazywania konkretnych producentów.
+---
+
 # Checklista weryfikacji Opisu Przedmiotu Zamówienia (OPZ)
 
 Dokument do obowiązkowej weryfikacji przez Wydział Zamówień Publicznych wspólnie z Wydziałem Merytorycznym **przed publikacją postępowania**.

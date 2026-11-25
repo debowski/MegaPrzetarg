@@ -1,3 +1,17 @@
+---
+title: "Oświadczenie o niepodleganiu wykluczeniu i spełnianiu warunków udziału — art. 125 ust. 1 Pzp"
+category: "wzór"
+stage: "procedura"
+procedure: [B]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór oświadczenia wykonawcy o niepodleganiu wykluczeniu i spełnianiu
+  warunków udziału w postępowaniu (art. 125 ust. 1 Pzp).
+---
+
 # Oświadczenie o niepodleganiu wykluczeniu i spełnianiu warunków udziału — art. 125 ust. 1 Pzp
 # (Procedura krajowa — alternatywa dla JEDZ w postępowaniach poniżej progów UE)
 

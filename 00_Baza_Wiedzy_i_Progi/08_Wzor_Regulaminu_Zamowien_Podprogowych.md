@@ -1,3 +1,17 @@
+---
+title: "Wzór Regulaminu udzielania zamówień publicznych o wartości poniżej 170 000 zł netto"
+category: "wzór"
+stage: "baza-wiedzy"
+procedure: [A]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór wewnętrznego regulaminu udzielania zamówień poniżej 170 000 zł netto,
+  dostosowany do zmian progu obowiązujących od 1.01.2026 r.
+---
+
 # Wzór Regulaminu udzielania zamówień publicznych o wartości poniżej 170 000 zł netto
 
 > **Dlaczego ten plik jest potrzebny:** od 1.01.2026 r. próg stosowania Pzp wzrósł ze 130 000 zł do **170 000 zł netto** (Dz.U. 2025 poz. 1173). Każda gmina musiała dostosować wewnętrzny regulamin zakupowy do nowej granicy i do wymogów projektów UE (zasada konkurencyjności **> 80 000 zł netto** — wytyczne 2021–2027 od 25.03.2025 r.). Poniższy wzór jest **szkieletem do dostosowania** w drodze zarządzenia Wójta/Burmistrza/Prezydenta albo uchwały Rady Gminy — zgodnie z praktyką i strukturą urzędu. Uzupełnij pola w nawiasach i uzyskaj opinię radcy prawnego.

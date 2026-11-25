@@ -1,3 +1,17 @@
+---
+title: "Specyfikacja Warunków Zamówienia (SWZ) — Tryb Podstawowy (Procedura Krajowa Pzp)"
+category: "dokument"
+stage: "procedura"
+procedure: [B]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór specyfikacji warunków zamówienia dla trybu podstawowego
+  (art. 275 pkt 1 i 2 Pzp) w procedurze krajowej.
+---
+
 # Specyfikacja Warunków Zamówienia (SWZ) — Tryb Podstawowy (Procedura Krajowa Pzp)
 
 **Znak postępowania:** `[Uzupełnić: np. ZP.271.X.2026]`  

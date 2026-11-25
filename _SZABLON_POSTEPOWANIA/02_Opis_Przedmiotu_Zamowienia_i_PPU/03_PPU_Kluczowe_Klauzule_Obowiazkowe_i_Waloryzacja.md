@@ -1,3 +1,17 @@
+---
+title: "Projektowane Postanowienia Umowy (PPU) — Klauzule obowiązkowe Pzp i gminne"
+category: "dokument"
+stage: "opis-przedmiotu"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wykaz obowiązkowych zapisów, które muszą znaleźć się w wzorze umowy:
+  klauzule Pzp, gminne, waloryzacja, kary, RODO i CRU JSFP.
+---
+
 # Projektowane Postanowienia Umowy (PPU) — Klauzule obowiązkowe Pzp i gminne
 
 Wykaz obowiązkowych zapisów, które **muszą znaleźć się we wzorze umowy** (załączniku do SWZ) zgodnie z ustawą Pzp (art. 431–465), ustawą o samorządzie gminnym, ustawą o finansach publicznych oraz RODO.

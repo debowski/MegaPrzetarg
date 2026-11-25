@@ -1,3 +1,17 @@
+---
+title: "Notatka z weryfikacji sankcyjnej wykonawców"
+category: "notatka"
+stage: "badanie-ocena"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Notatka z weryfikacji wykonawców wobec list sankcyjnych MSWiA i UE,
+  sporządzana przed dokonaniem wyboru oferty.
+---
+
 # Notatka z weryfikacji sankcyjnej wykonawców
 
 **Znak sprawy:** `[Uzupełnić]`  

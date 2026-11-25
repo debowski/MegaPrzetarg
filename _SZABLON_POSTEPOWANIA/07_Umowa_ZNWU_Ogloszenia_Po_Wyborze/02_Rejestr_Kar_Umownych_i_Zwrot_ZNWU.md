@@ -1,3 +1,17 @@
+---
+title: "Rejestr kar umownych, ZNWU i zwrotów zabezpieczenia"
+category: "rejestr"
+stage: "umowa"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Rejestr naliczonych kar umownych, zwrotów zabezpieczenia (ZNWU)
+  i terminów ustawowych z art. 436–448 Pzp.
+---
+
 # Rejestr kar umownych, ZNWU i zwrotów zabezpieczenia
 
 **Znak sprawy:** `[Uzupełnić]`  

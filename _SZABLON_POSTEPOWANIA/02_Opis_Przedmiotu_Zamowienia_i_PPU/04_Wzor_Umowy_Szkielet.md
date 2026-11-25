@@ -1,3 +1,17 @@
+---
+title: "Wzór umowy o zamówienie publiczne — szkielet do wypełnienia (PPU w formie umowy)"
+category: "wzór"
+stage: "opis-przedmiotu"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Pełny szkielet umowy o zamówienie publiczne rozwijający listę klauzul PPU
+  do wypełnienia i przekazania do opinii radcy prawnego.
+---
+
 # Wzór umowy o zamówienie publiczne — szkielet do wypełnienia (PPU w formie umowy)
 
 > **Jak używać:** plik rozwija `03_PPU_Kluczowe_Klauzule_Obowiazkowe_i_Waloryzacja.md` (lista kontrolna) w pełny tekst umowy. Usuń niepotrzebne warianty, uzupełnij pola `[...]`, przekaż do opinii radcy prawnego i **dodaj jako załącznik do SWZ**. Wzór uwzględnia art. 431–465 Pzp, art. 46 ust. 3 u.s.g., KSeF/PEF i wymogi 2026 r. Numeracja paragrafów jest propozycją — dostosuj do zwyczajów urzędu.

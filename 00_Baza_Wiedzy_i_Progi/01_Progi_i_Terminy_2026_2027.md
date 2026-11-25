@@ -1,3 +1,17 @@
+---
+title: "Progi i terminy ustawowe w zamówieniach publicznych (stan na lata 2026–2027)"
+category: "baza-wiedzy"
+stage: "baza-wiedzy"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Ściągawka progów krajowych i unijnych na lata 2026–2027, kursu 4,31 PLN/EUR
+  oraz najważniejszych terminów ustawowych Pzp.
+---
+
 # Progi i terminy ustawowe w zamówieniach publicznych (stan na lata 2026–2027)
 
 Dokument referencyjny dla **Wydziału Zamówień Publicznych Urzędu Gminy** (zamawiający publiczny inny niż administracja centralna — jednostka samorządu terytorialnego).

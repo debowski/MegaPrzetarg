@@ -1,3 +1,17 @@
+---
+title: "Notatka dotycząca konsultacji rynkowych (art. 84 Pzp)"
+category: "notatka"
+stage: "inicjacja"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Notatka dokumentująca opcjonalne konsultacje rynkowe (art. 84 Pzp) i ich
+  wpływ na treść dokumentów zamówienia.
+---
+
 # Notatka dotycząca konsultacji rynkowych (art. 84 Pzp)
 
 **Znak sprawy:** `[Uzupełnić]`  

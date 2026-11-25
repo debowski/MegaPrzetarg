@@ -1,3 +1,17 @@
+---
+title: "Zasada Konkurencyjności UE (Baza Konkurencyjności BK2021) — powyżej 80 000 PLN do < 170 000 PLN netto"
+category: "instrukcja"
+stage: "procedura"
+procedure: [A]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Zasady publikacji i dokumentowania zapytania w Bazie Konkurencyjności BK2021
+  dla projektów UE powyżej 80 000 PLN, a poniżej progu Pzp.
+---
+
 # Zasada Konkurencyjności UE (Baza Konkurencyjności BK2021) — powyżej 80 000 PLN do < 170 000 PLN netto
 
 > **Podstawa prawna:** *Wytyczne dotyczące kwalifikowalności wydatków na lata 2021–2027* (nowelizacja obowiązująca od **25 marca 2025 r.** podniosła próg z 50 tys. zł do **80 000 PLN netto**).  

@@ -1,3 +1,17 @@
+---
+title: "Środki ochrony prawnej — KIO: Terminy, standstill, rejestr odwołań"
+category: "rejestr"
+stage: "srodki-ochrony"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Terminy wnoszenia odwołania do KIO, zasady standstill i rejestr odwołań
+  wraz z opłatami i zmianami obowiązującymi od 13.03.2026 r.
+---
+
 # Środki ochrony prawnej — KIO: Terminy, standstill, rejestr odwołań
 
 **Znak sprawy:** `[Uzupełnić]`

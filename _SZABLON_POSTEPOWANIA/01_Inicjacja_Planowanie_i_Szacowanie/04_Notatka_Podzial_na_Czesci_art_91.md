@@ -1,3 +1,17 @@
+---
+title: "Notatka służbowa w sprawie podziału zamówienia na części (art. 91 ust. 2 Pzp)"
+category: "notatka"
+stage: "inicjacja"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Notatka uzasadniająca podział zamówienia na części albo brak podziału
+  (art. 91 ust. 2 Pzp), zgodna z APiW i testem MŚP.
+---
+
 # Notatka służbowa w sprawie podziału zamówienia na części (art. 91 ust. 2 Pzp)
 
 > **Ważne:** Obowiązek podania w dokumentach zamówienia (SWZ) oraz protokole postępowania **powodów niedokonania podziału zamówienia na części** (art. 91 ust. 2 Pzp). Uwaga: samo zdanie „podział jest niecelowy” lub „zwiększyłoby to koszty” bez konkretnego uzasadnienia jest regularnie kwestionowane przez KIO, RIO oraz instytucje kontrolujące projekty UE!

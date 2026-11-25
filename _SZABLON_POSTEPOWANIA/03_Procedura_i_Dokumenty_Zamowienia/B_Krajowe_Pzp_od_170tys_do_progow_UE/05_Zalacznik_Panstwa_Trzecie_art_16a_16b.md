@@ -1,3 +1,17 @@
+---
+title: "Wzór Oświadczenia wykonawcy dotyczącego państw trzecich (art. 16a–16b Pzp)"
+category: "wzór"
+stage: "procedura"
+procedure: [B]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór oświadczenia wykonawcy dotyczącego państw trzecich, stosowany gdy
+  SWZ ogranicza dostęp na podstawie art. 16a–16b Pzp.
+---
+
 # Wzór Oświadczenia wykonawcy dotyczącego państw trzecich (art. 16a–16b Pzp)
 
 **Załącznik do SWZ — Znak sprawy:** `[Uzupełnić]`

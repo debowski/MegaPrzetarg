@@ -1,3 +1,17 @@
+---
+title: "Notatka służbowa — wybór ścieżki prawnej i weryfikacja zgodności (do akt każdej sprawy)"
+category: "notatka"
+stage: "inicjacja"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Dokument służący do udokumentowania wyboru trybu udzielenia zamówienia,
+  weryfikacji progów, zakazu dzielenia zamówienia i zgodności z przepisami.
+---
+
 # Notatka służbowa — wybór ścieżki prawnej i weryfikacja zgodności (do akt każdej sprawy)
 
 **Znak sprawy:** `[Uzupełnić]`  

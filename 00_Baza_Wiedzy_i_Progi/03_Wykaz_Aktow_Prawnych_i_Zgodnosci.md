@@ -1,3 +1,17 @@
+---
+title: "Wykaz aktów prawnych i wymogów zgodności (Polska + UE, stan na 2026–2027)"
+category: "baza-wiedzy"
+stage: "baza-wiedzy"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Zestawienie obowiązujących aktów prawnych krajowych i unijnych oraz wymogów
+  zgodności, które trzeba uwzględnić w postępowaniu.
+---
+
 # Wykaz aktów prawnych i wymogów zgodności (Polska + UE, stan na 2026–2027)
 
 Zestawienie przepisów, które specjalista ds. zamówień publicznych w polskim urzędzie gminy musi uwzględniać przy przygotowaniu i realizacji postępowań.

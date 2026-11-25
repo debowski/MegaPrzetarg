@@ -1,3 +1,17 @@
+---
+title: "Raport z realizacji umowy (art. 446 Pzp) i Ogłoszenie o wykonaniu umowy (art. 448 Pzp)"
+category: "dokument"
+stage: "realizacja"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór raportu z realizacji umowy (art. 446 Pzp) oraz ogłoszenia
+  o jej wykonaniu (art. 448 Pzp).
+---
+
 # Raport z realizacji umowy (art. 446 Pzp) i Ogłoszenie o wykonaniu umowy (art. 448 Pzp)
 
 **Znak sprawy:** `[Uzupełnić]`  

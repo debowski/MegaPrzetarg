@@ -1,3 +1,17 @@
+---
+title: "Waloryzacja wynagrodzenia — art. 439 Pzp: Wniosek, kalkulacja i aneks"
+category: "dokument"
+stage: "realizacja"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór wniosku, kalkulacji i aneksu przy waloryzacji wynagrodzenia
+  w umowach zawartych na czas dłuższy niż 6 miesięcy (art. 439 Pzp).
+---
+
 # Waloryzacja wynagrodzenia — art. 439 Pzp: Wniosek, kalkulacja i aneks
 
 **Znak sprawy:** `[Uzupełnić]`  

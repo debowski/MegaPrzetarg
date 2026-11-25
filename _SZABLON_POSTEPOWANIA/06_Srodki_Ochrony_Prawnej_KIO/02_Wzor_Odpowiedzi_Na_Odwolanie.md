@@ -1,3 +1,17 @@
+---
+title: "Wzór odpowiedzi Zamawiającego na odwołanie do KIO (stan od 13.03.2026 r.)"
+category: "wzór"
+stage: "srodki-ochrony"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór obowiązkowej odpowiedzi zamawiającego na odwołanie do KIO
+  z uwzględnieniem prekluzji dowodowej (stan od 13.03.2026 r.).
+---
+
 # Wzór odpowiedzi Zamawiającego na odwołanie do KIO (stan od 13.03.2026 r.)
 
 **Sygnatura akt KIO:** `[...]`  

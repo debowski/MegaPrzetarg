@@ -1,3 +1,17 @@
+---
+title: "Plan Postępowań o Udzielenie Zamówień Publicznych na rok `[2026]`"
+category: "rejestr"
+stage: "baza-wiedzy"
+procedure: [B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Tabela planu postępowań z art. 23 Pzp na dany rok, z terminami, wartościami
+  szacunkowymi i przewidywanymi trybami.
+---
+
 # Plan Postępowań o Udzielenie Zamówień Publicznych na rok `[2026]`
 
 **Zamawiający:** Gmina `[Nazwa]`, NIP: `[...]`  

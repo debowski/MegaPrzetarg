@@ -1,3 +1,17 @@
+---
+title: "Słownik skrótów i pojęć — Wydział Zamówień Publicznych Urzędu Gminy"
+category: "baza-wiedzy"
+stage: "baza-wiedzy"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Słownik skrótów i pojęć używanych w zestawie wraz z odnośnikami do właściwych
+  plików — pomoc dla nowych pracowników WZP.
+---
+
 # Słownik skrótów i pojęć — Wydział Zamówień Publicznych Urzędu Gminy
 
 Szybka pomoc dla nowych pracowników i osób współpracujących z Wydziałem. Odsyła do właściwego pliku w zestawie.

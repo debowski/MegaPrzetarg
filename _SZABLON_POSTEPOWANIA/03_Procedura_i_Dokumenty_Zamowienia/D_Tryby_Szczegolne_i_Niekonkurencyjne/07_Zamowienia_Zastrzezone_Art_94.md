@@ -1,3 +1,17 @@
+---
+title: "Zamówienia zastrzeżone (art. 94 Pzp) — klauzula społeczna"
+category: "dokument"
+stage: "procedura"
+procedure: [D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Zasady stosowania klauzuli społecznej i zamówień zastrzeżonych ze
+  wskaźnikiem zatrudnienia nie mniejszym niż 30% (art. 94 Pzp).
+---
+
 # Zamówienia zastrzeżone (art. 94 Pzp) — klauzula społeczna
 
 **Dotyczy:** zamówień, w których gmina zastrzega w ogłoszeniu, że o udzielenie zamówienia mogą ubiegać się **wyłącznie** wykonawcy zatrudniający osoby społecznie marginalizowane. Typowo: usługi porządkowe, pralnicze, cateringowe, drukarskie, konserwacja terenów zielonych, drobne roboty, usługi administracyjne.

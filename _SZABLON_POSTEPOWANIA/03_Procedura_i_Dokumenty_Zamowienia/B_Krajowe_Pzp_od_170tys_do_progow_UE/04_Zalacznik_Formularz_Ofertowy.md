@@ -1,3 +1,17 @@
+---
+title: "Formularz ofertowy — Wzór (Tryb podstawowy / Przetarg nieograniczony)"
+category: "wzór"
+stage: "procedura"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór formularza ofertowego z tabelą cenową, danymi konsorcjum
+  oraz zobowiązaniami składanymi przez wykonawcę.
+---
+
 # Formularz ofertowy — Wzór (Tryb podstawowy / Przetarg nieograniczony)
 
 **Załącznik nr `[1]` do SWZ**  

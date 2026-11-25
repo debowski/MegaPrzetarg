@@ -1,3 +1,17 @@
+---
+title: "Protokół z szacowania wartości zamówienia publicznego"
+category: "protokół"
+stage: "inicjacja"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór protokołu ustalenia wartości zamówienia netto z agregacją zamówień
+  podobnych i terminami z art. 36 ust. 1 Pzp.
+---
+
 # Protokół z szacowania wartości zamówienia publicznego
 
 **Podstawa prawna:** art. 28–36 ustawy Prawo zamówień publicznych (Pzp) oraz Obwieszczenie Prezesa UZP z dnia 8 grudnia 2025 r. (M.P. z 2025 r. poz. 1247 — średni kurs **1 EUR = 4,31 PLN** na lata 2026–2027).  

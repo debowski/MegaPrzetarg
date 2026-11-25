@@ -1,3 +1,17 @@
+---
+title: "Wniosek o wszczęcie postępowania o udzielenie zamówienia publicznego"
+category: "dokument"
+stage: "inicjacja"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Formularz wniosku wydziału merytorycznego o wszczęcie postępowania z opisem
+  potrzeby, przedmiotu, wartości szacunkowej i planowanego trybu.
+---
+
 # Wniosek o wszczęcie postępowania o udzielenie zamówienia publicznego
 
 **Znak wniosku (Wydział merytoryczny):** `[Uzupełnić]`  

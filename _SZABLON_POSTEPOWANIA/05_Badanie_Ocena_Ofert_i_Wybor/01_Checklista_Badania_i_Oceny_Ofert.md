@@ -1,3 +1,17 @@
+---
+title: "Checklista badania i oceny ofert"
+category: "checklista"
+stage: "badanie-ocena"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Lista kontrolna badania ofert — od formalności przez wykluczenia i odrzucenia
+  po punktację, z uwzględnieniem ICT i procedury odwróconej.
+---
+
 # Checklista badania i oceny ofert
 
 **Znak sprawy:** `[Uzupełnić]`  

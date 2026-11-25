@@ -1,3 +1,17 @@
+---
+title: "Szablon Opisu Przedmiotu Zamówienia (OPZ)"
+category: "wzór"
+stage: "opis-przedmiotu"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Szablon opisu przedmiotu zamówienia z kodami CPV, wymaganiami technicznymi,
+  standardami i kryteriami jakościowymi.
+---
+
 # Szablon Opisu Przedmiotu Zamówienia (OPZ)
 
 **Załącznik nr `[...]` do SWZ / Zapytania Ofertowego**  

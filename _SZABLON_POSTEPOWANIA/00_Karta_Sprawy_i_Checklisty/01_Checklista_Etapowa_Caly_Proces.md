@@ -1,3 +1,17 @@
+---
+title: "Checklista etapowa — Cały proces zamówienia publicznego (Urząd Gminy)"
+category: "checklista"
+stage: "karta-sprawy"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Lista kontrolna obejmująca cały cykl postępowania — od wniosku po archiwizację
+  — do bieżącej kontroli jakości i przygotowania do ewentualnego audytu.
+---
+
 # Checklista etapowa — Cały proces zamówienia publicznego (Urząd Gminy)
 
 > Zaznaczaj `[x]` po wykonaniu czynności lub wpisz `ND` (nie dotyczy). Dokument służy bieżącej kontroli jakości i przygotowaniu do ewentualnej kontroli RIO, NIK, UZP lub Instytucji Zarządzającej UE.

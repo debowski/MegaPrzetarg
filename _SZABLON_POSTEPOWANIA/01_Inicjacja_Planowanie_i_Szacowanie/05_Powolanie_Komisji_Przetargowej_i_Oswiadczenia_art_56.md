@@ -1,3 +1,17 @@
+---
+title: "Powołanie Komisji Przetargowej i Oświadczenia z art. 56 Pzp"
+category: "dokument"
+stage: "inicjacja"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Dokument powołujący komisję przetargową wraz z oświadczeniami o bezstronności;
+  w postępowaniach unijnych powołanie komisji jest obowiązkowe.
+---
+
 # Powołanie Komisji Przetargowej i Oświadczenia z art. 56 Pzp
 
 > **Podstawa prawna:** art. 53–56 ustawy Pzp.  

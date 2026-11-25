@@ -1,3 +1,17 @@
+---
+title: "Oświadczenie o braku/spełnianiu warunków zamówienia in-house (art. 214 ust. 1 pkt 11–14 Pzp)"
+category: "wzór"
+stage: "procedura"
+procedure: [D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór oświadczenia weryfikującego łączne przesłanki udzielenia zamówienia
+  in-house gminnemu podmiotowi (art. 214 ust. 1 pkt 11–14 Pzp).
+---
+
 # Oświadczenie o braku/spełnianiu warunków zamówienia in-house (art. 214 ust. 1 pkt 11–14 Pzp)
 # oraz wymagania przy zamówieniach udzielanych w trybie art. 214 ust. 1 pkt 11 (kontrola analogiczna)
 

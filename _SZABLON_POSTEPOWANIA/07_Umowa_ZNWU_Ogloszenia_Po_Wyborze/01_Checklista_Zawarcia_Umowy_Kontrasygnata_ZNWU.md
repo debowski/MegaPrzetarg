@@ -1,3 +1,17 @@
+---
+title: "Checklista zawarcia umowy, kontrasygnata i ogłoszenia po wyborze"
+category: "checklista"
+stage: "umowa"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Lista kontrolna zawarcia umowy po upływie standstill: kontrasygnata,
+  KSeF/PEF, CRU, zabezpieczenie oraz ogłoszenia po wyborze oferty.
+---
+
 # Checklista zawarcia umowy, kontrasygnata i ogłoszenia po wyborze
 
 **Znak sprawy:** `[Uzupełnić]`  

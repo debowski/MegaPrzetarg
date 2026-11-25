@@ -1,3 +1,17 @@
+---
+title: "Konkurs (art. 325–358 Pzp) — przewodnik i lista kontrolna"
+category: "checklista"
+stage: "procedura"
+procedure: [D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Przewodnik i lista kontrolna konkursu, w tym obowiązku poprzedzania
+  konkursem zamówień na usługi projektowania (art. 325–358 Pzp).
+---
+
 # Konkurs (art. 325–358 Pzp) — przewodnik i lista kontrolna
 
 **Dotyczy:** wyboru pracy konkursowej o charakterze twórczym — planowanie przestrzenne, projektowanie urbanistyczne, architektoniczne i architektoniczno-budowlane, przetwarzanie danych, projektowanie IT, zamierzenia innowacyjne. W gminie najczęściej: konkurs na koncepcję zagospodarowania działki, projekt budynku użyteczności publicznej, opracowanie urbanistyczne.

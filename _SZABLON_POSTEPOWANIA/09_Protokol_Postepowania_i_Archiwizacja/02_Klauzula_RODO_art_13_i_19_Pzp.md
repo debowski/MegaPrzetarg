@@ -1,3 +1,17 @@
+---
+title: "Klauzula informacyjna RODO dla uczestników postępowania (art. 13 i art. 19 Pzp)"
+category: "wzór"
+stage: "archiwizacja"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Klauzula informacyjna RODO (art. 13 i 19 Pzp) do zamieszczenia w SWZ,
+  zapytaniu ofertowym i pozostałych dokumentach postępowania.
+---
+
 # Klauzula informacyjna RODO dla uczestników postępowania (art. 13 i art. 19 Pzp)
 
 > Poniższa klauzula powinna być zamieszczona w SWZ / Zapytaniu ofertowym / BK2021 (w każdym postępowaniu, w którym Urząd Gminy przetwarza dane osobowe reprezentantów wykonawców, osób wyznaczonych do realizacji, itp.).

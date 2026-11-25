@@ -1,3 +1,17 @@
+---
+title: "Zapytanie ofertowe i Notatka z rozeznania rynku — Zamówienie podprogowe (< 170 000 PLN netto)"
+category: "dokument"
+stage: "procedura"
+procedure: [A]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Zapytanie ofertowe i notatka z rozeznania rynku dla zamówień podprogowych
+  poniżej 170 000 PLN netto, finansowanych ze środków własnych gminy.
+---
+
 # Zapytanie ofertowe i Notatka z rozeznania rynku — Zamówienie podprogowe (< 170 000 PLN netto)
 
 > **Zakres stosowania:** Zamówienia klasyczne finansowane ze środków własnych Gminy (lub krajowych) o wartości szacunkowej **niższej niż 170 000 PLN netto** (art. 2 ust. 1 pkt 1 Pzp w brzmieniu od 1.01.2026 r., Dz.U. z 2025 r. poz. 1173).  

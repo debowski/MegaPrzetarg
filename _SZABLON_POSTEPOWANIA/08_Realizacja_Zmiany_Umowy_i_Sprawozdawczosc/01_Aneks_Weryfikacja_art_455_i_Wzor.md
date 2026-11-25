@@ -1,3 +1,17 @@
+---
+title: "Aneks do umowy — Weryfikacja podstaw i treść (art. 455 Pzp)"
+category: "wzór"
+stage: "realizacja"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór aneksu do umowy z weryfikacją podstawy zmiany z art. 455 Pzp
+  oraz wymaganą treścią postanowień.
+---
+
 # Aneks do umowy — Weryfikacja podstaw i treść (art. 455 Pzp)
 
 **Znak sprawy:** `[Uzupełnić]`  

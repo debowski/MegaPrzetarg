@@ -1,3 +1,17 @@
+---
+title: "Instrukcja przygotowania JEDZ (ESPD) oraz publikacji ogłoszeń w TED (eNotices2 / eForms)"
+category: "instrukcja"
+stage: "procedura"
+procedure: [C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Instrukcja przygotowania JEDZ/ESPD oraz publikacji ogłoszeń w TED
+  przez eNotices2/eForms dla postępowań unijnych.
+---
+
 # Instrukcja przygotowania JEDZ (ESPD) oraz publikacji ogłoszeń w TED (eNotices2 / eForms)
 
 Dokument pomocniczy dla postępowań o wartości **równej lub przekraczającej progi unijne**.

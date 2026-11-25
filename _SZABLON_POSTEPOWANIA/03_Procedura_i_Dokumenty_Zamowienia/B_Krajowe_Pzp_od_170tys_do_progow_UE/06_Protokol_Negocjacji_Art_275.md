@@ -1,3 +1,17 @@
+---
+title: "Protokół z negocjacji — tryb podstawowy wariant II i III (art. 275 pkt 2 i 3 Pzp)"
+category: "protokół"
+stage: "procedura"
+procedure: [B]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Wzór protokołu z obowiązkowych lub fakultatywnych negocjacji w trybie
+  podstawowym (art. 275 pkt 2 i 3 Pzp).
+---
+
 # Protokół z negocjacji — tryb podstawowy wariant II i III (art. 275 pkt 2 i 3 Pzp)
 
 **Znak sprawy:** `[Uzupełnić]`  

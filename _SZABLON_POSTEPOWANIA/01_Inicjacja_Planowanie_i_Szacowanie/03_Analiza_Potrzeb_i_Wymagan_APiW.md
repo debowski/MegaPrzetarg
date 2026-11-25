@@ -1,3 +1,17 @@
+---
+title: "Analiza Potrzeb i Wymagań (APiW) — art. 83 ustawy Pzp"
+category: "dokument"
+stage: "inicjacja"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Analiza potrzeb i wymagań obowiązkowa przed wszczęciem postępowania unijnego;
+  przygotowuje podstawy do OPZ, kryteriów i struktury zamówienia.
+---
+
 # Analiza Potrzeb i Wymagań (APiW) — art. 83 ustawy Pzp
 
 > **Obowiązek ustawowy:** Sporządzana **obowiązkowo przed wszczęciem postępowania** o wartości równej lub przekraczającej progi unijne (art. 83 ust. 1 Pzp). W postępowaniach krajowych (`< próg UE`) dokument nieobowiązkowy, ale zalecany jako dobra praktyka przy złożonych inwestycjach.  

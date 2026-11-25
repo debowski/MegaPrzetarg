@@ -1,3 +1,17 @@
+---
+title: "Wzory pism — Badanie ofert i wybór najkorzystniejszej oferty"
+category: "wzór"
+stage: "badanie-ocena"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Zestaw wzorów pism: wezwanie do uzupełnienia, wybór najkorzystniejszej
+  oferty oraz odrzucenie oferty.
+---
+
 # Wzory pism — Badanie ofert i wybór najkorzystniejszej oferty
 
 **Znak sprawy:** `[Uzupełnić]`

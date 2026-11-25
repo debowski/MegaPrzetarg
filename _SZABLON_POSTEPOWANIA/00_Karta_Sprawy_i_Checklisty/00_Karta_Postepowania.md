@@ -1,3 +1,17 @@
+---
+title: "Karta Postępowania o Udzielenie Zamówienia Publicznego"
+category: "dokument"
+stage: "karta-sprawy"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Karta ewidencjonująca podstawowe dane sprawy: znak JRWA, nazwę zamówienia,
+  wartość, tryb oraz osoby odpowiedzialne za postępowanie.
+---
+
 # Karta Postępowania o Udzielenie Zamówienia Publicznego
 
 ## 1. Dane identyfikacyjne sprawy

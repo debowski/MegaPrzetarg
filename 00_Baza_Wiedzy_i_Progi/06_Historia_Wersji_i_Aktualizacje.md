@@ -1,3 +1,17 @@
+---
+title: "Historia wersji, aktualizacje i lista kontrolna utrzymania zestawu"
+category: "baza-wiedzy"
+stage: "baza-wiedzy"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Historia wersji zestawu i lista kontrolna utrzymania — co i kiedy sprawdzać,
+  aby szablony pozostały zgodne z aktualnym stanem prawnym.
+---
+
 # Historia wersji, aktualizacje i lista kontrolna utrzymania zestawu
 
 Dokument opisuje, kiedy i co sprawdzić, aby zestaw pozostał zgodny z prawem. **Stan prawny opracowania: 25 listopada 2026 r.**

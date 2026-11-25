@@ -1,3 +1,17 @@
+---
+title: "MegaPrzetarg — Kompletny zestaw pracy dla Wydziału Zamówień Publicznych Urzędu Gminy"
+category: "dokument"
+stage: "baza-wiedzy"
+procedure: [A, B, C, D]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Przewodnik po zestawie: struktura folderów, progi 2026–2027, ścieżki A/B/C/D
+  oraz sposób korzystania z wzorów, list kontrolnych i rejestrów.
+---
+
 # MegaPrzetarg — Kompletny zestaw pracy dla Wydziału Zamówień Publicznych Urzędu Gminy
 
 Profesjonalny, gotowy do użycia zestaw folderów, wzorów pism, list kontrolnych i rejestrów dla specjalisty ds. zamówień publicznych w polskim urzędzie gminy. Uwzględnia **prawo krajowe i unijne**, progi na lata **2026–2027** oraz zmiany obowiązujące w 2026 r.

@@ -1,3 +1,17 @@
+---
+title: "Rejestr pytań, wyjaśnień i zmian SWZ"
+category: "rejestr"
+stage: "wyjasnienia"
+procedure: [B, C]
+author_role: "specjalista ds. zamówień publicznych"
+output:
+  - docx
+  - pdf
+description: >
+  Rejestr pytań, wyjaśnień i zmian SWZ wraz z terminami ustawowymi
+  dowodami ich terminowej publikacji.
+---
+
 # Rejestr pytań, wyjaśnień i zmian SWZ
 
 **Znak sprawy:** `[Uzupełnić]`
