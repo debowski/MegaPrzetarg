@@ -4,7 +4,7 @@ Profesjonalny, gotowy do użycia zestaw folderów, wzorów pism, list kontrolnyc
 
 ## Czy projekt jest gotowy?
 
-**Tak.** Po audycie i weryfikacji prawnej z dnia **25 listopada 2026 r.** zestaw jest kompletny: zawiera cały cykl postępowania (od wniosku wydziału po archiwizację), ścieżki A/B/C/D, wzory dokumentów i rejestry oraz narzędzia uzupełniające (regulamin podprogowy, słownik, historia wersji, szkielet umowy, karty oceny, odpowiedź na odwołanie, konkurs i zamówienia zastrzeżone). Poprawiono znalezione błędy (termin przystąpienia do KIO, progi raportu z art. 446, zasada ogłaszania zmian umowy, druk protokołu dla art. 275 pkt 3, okres ważności ZNWU). Wersja zestawu: **1.2**.
+**Tak.** Po audycie i weryfikacji prawnej z dnia **25 listopada 2026 r.** zestaw jest kompletny: zawiera cały cykl postępowania (od wniosku wydziału po archiwizację), ścieżki A/B/C/D, wzory dokumentów i rejestry oraz narzędzia uzupełniające (regulamin podprogowy, słownik, historia wersji, szkielet umowy, karty oceny, odpowiedź na odwołanie, konkurs i zamówienia zastrzeżone). Uwzględniono też najnowszą aktualizację bazy wiedzy i szablonów (CRU JSFP, e-Doręczenia, NZIA/EED, znowelizowaną elektromobilność oraz rozporządzenia wykonawcze do certyfikacji wykonawców). Wersja zestawu: **1.3**.
 
 > **Ważne:** to narzędzie pracy, nie porada prawna. Przed każdym postępowaniem sprawdź aktualny tekst przepisów w ISAP/ELI, obwieszczenia UZP i umowę o dofinansowanie. Zestaw odzwierciedla stan prawny na **25.11.2026 r.** — zob. [`00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md`](./00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md). Od **1.12.2026 r.** wchodzą w życie zmiany art. 214 i 364 Pzp, a od **1.01.2027 r.** art. 112 Pzp — sprawdź je przed wszczęciem postępowania.
 
@@ -62,7 +62,7 @@ MegaPrzetarg/
     │                                             #   KARTA OCENY CZŁONKA KOMISJI, WZORY: art. 223, 128, omyłki
     ├── 06_Srodki_Ochrony_Prawnej_KIO/            # Terminy, standstill, rejestr odwołań,
     │                                             #   WZÓR ODPOWIEDZI NA ODWOŁANIE (reguły od 13.03.2026)
-    ├── 07_Umowa_ZNWU_Ogloszenia_Po_Wyborze/      # Checklista umowy (kontrasygnata, KSeF/PEF), ZNWU
+    ├── 07_Umowa_ZNWU_Ogloszenia_Po_Wyborze/      # Checklista umowy (kontrasygnata, KSeF/PEF, CRU), ZNWU
     ├── 08_Realizacja_Zmiany_Umowy_i_Sprawozdawczosc/ # Aneksy art. 455, raport art. 446, art. 448,
     │                                             #   waloryzacja art. 439
     ├── 09_Protokol_Postepowania_i_Archiwizacja/  # Kompletność ZP, JRWA, RODO
@@ -88,10 +88,13 @@ MegaPrzetarg/
 | Data | Zmiana | Pliki |
 | :-- | :-- | :-- |
 | 1.01.2026 | Próg 170 000 PLN; nowe progi UE i kurs 4,31; nowe elementy APiW | `01_`, `01_.../03_APiW`, `02_Matryca...` |
+| 1.01.2026 | e-Doręczenia (PURDE) jako domyślny kanał korespondencji urzędowej (zamówienia podprogowe, oświadczenia umowne) | `02_.../03_`, `02_.../04_`, `08_Wzor_Regulaminu...` |
 | 1.02./1.04.2026 | KSeF + PEF w fakturach dla zamawiających publicznych | `02_.../03_PPU`, `07_.../01_` |
 | 13.03.2026 | KIO: rozprawy zdalne, prekluzja dowodowa, obowiązkowa odpowiedź, e-Doręczenia, przystąpienie w 3 dni | `06_.../01_`, `06_.../02_` |
 | 3.04.2026 | Odrzucanie ofert z rozwiązań ICT (art. 226 ust. 1 pkt 17 i 19 Pzp) | `02_.../01_`, `05_.../01_` |
-| 12.07.2026 | Certyfikacja wykonawców (Dz.U. 2025 poz. 1235) | `03_.../B.../03_`, `C.../01_` |
+| 30.06.2026 | NZIA (Rozp. UE 2024/1735, art. 25) — kryteria środowiskowe i odporności dostaw dla technologii net-zero w UE | `02_.../01_`, `03_.../C.../01_` |
+| 1.07.2026 | Centralny Rejestr Umów (CRU JSFP, art. 34a–34d u.f.p.) — raportowanie umów w 30 dni (bez progu kwotowego) | `07_.../01_`, `08_.../01_`, `08_Wzor_Regulaminu...` |
+| 12.07.2026 | Certyfikacja wykonawców (Dz.U. 2025 poz. 1235; rozp. Dz.U. 2026 poz. 709 i 1116) | `03_.../B.../03_`, `C.../01_` |
 | 1.01.2027 | Poziomy zdolności w robotach budowlanych (Dz.U. 2026 poz. 1393) | `03_Wykaz_Aktow...`, `06_Historia...` |
 
 ---
@@ -104,4 +107,4 @@ Nazwy folderów i plików nie zawierają polskich znaków ani spacji (zgodnie z 
 
 Sprawdzaj kwartalnie `00_Baza_Wiedzy_i_Progi/06_Historia_Wersji_i_Aktualizacje.md` (lista kontrolna aktualizacji) oraz strony: ISAP/ELI, gov.pl/web/uzp, gov.pl/web/mswia, e-Zamówienia, Baza Konkurencyjności, BIP Ministerstwa Cyfryzacji (rekomendacje ICT). Zmiany wpisuj do historii wersji i rozsyłaj do wydziałów merytorycznych. W pakiecie skilla (`.opencode/skills/gminne-zamowienia-publiczne/`) znajdują się skrócone materiały decyzyjne (`references/`) i karty robocze (`templates/`) — aktualizuj je razem z bazą wiedzy.
 
-**Podstawa prawna (stan na 25.11.2026):** ustawa z 11.09.2019 r. – Pzp (t.j. **Dz.U. 2026 poz. 793**); obwieszczenie Prezesa UZP z 8.12.2025 r. (**M.P. 2025 poz. 1247**); ustawa z 25.07.2025 r. (**Dz.U. 2025 poz. 1173**); ustawa z 9.07.2025 r. (**Dz.U. 2025 poz. 1165**); ustawa o certyfikacji wykonawców (**Dz.U. 2025 poz. 1235**); dyrektywa 2014/24/UE; rozporządzenia wykonawcze eForms 2019/1780 i ESPD 2016/7; rozporządzenie Rady (UE) 833/2014 art. 5k; RODO; wytyczne kwalifikowalności 2021–2027.
+**Podstawa prawna (stan na 25.11.2026):** ustawa z 11.09.2019 r. – Pzp (t.j. **Dz.U. 2026 poz. 793**); obwieszczenie Prezesa UZP z 8.12.2025 r. (**M.P. 2025 poz. 1247**); ustawa z 25.07.2025 r. (**Dz.U. 2025 poz. 1173**); ustawa z 9.07.2025 r. (**Dz.U. 2025 poz. 1165**); ustawa o certyfikacji wykonawców (**Dz.U. 2025 poz. 1235**, rozp. **Dz.U. 2026 poz. 709, 1116, 1393**); u.f.p. art. 34a–34d (CRU JSFP); ustawa o doręczeniach elektronicznych; ustawa o elektromobilności (art. 35, 68a–68e); dyrektywa 2014/24/UE; rozporządzenia wykonawcze eForms 2019/1780 i ESPD 2016/7; rozporządzenie (UE) 2024/1735 (NZIA); dyrektywa (UE) 2023/1791 (EED); rozporządzenie Rady (UE) 833/2014 art. 5k; RODO; wytyczne kwalifikowalności 2021–2027.
