@@ -42,7 +42,8 @@ MegaPrzetarg/
 │   ├── 05b_Plan_Postepowan_Pzp_Tabela.md         # Plan postępowań art. 23 Pzp
 │   ├── 06_Historia_Wersji_i_Aktualizacje.md      # CHANGELOG, źródła, lista aktualizacji
 │   ├── 07_Slownik_Skrotow_i_Pojec.md             # Słownik skrótów dla nowych pracowników
-│   └── 08_Wzor_Regulaminu_Zamowien_Podprogowych.md # Wzór regulaminu < 170 tys. zł
+│   ├── 08_Wzor_Regulaminu_Zamowien_Podprogowych.md # Wzór regulaminu < 170 tys. zł
+│   └── 09_Najczestsze_Bledy_i_Korekty_RIO_NIK_UE.md # Ściągawka anty-kontrolna RIO/NIK/UZP/UE
 └── _SZABLON_POSTEPOWANIA/                        # <<< KOPIUJ TEN FOLDER DLA KAŻDEGO PRZETARGU >>>
     ├── 00_Karta_Sprawy_i_Checklisty/             # Karta sprawy, checklista procesu, rejestr terminów
     ├── 01_Inicjacja_Planowanie_i_Szacowanie/     # Wniosek, szacowanie, APiW, podział, komisja,
@@ -65,7 +66,7 @@ MegaPrzetarg/
     ├── 07_Umowa_ZNWU_Ogloszenia_Po_Wyborze/      # Checklista umowy (kontrasygnata, KSeF/PEF, CRU), ZNWU
     ├── 08_Realizacja_Zmiany_Umowy_i_Sprawozdawczosc/ # Aneksy art. 455, raport art. 446, art. 448,
     │                                             #   waloryzacja art. 439
-    ├── 09_Protokol_Postepowania_i_Archiwizacja/  # Kompletność ZP, JRWA, RODO
+    ├── 09_Protokol_Postepowania_i_Archiwizacja/  # Kompletność ZP, JRWA, RODO, audyt RIO/NIK/UE
     └── 10_Korespondencja_i_Zalaczniki_Robocze/   # Instrukcja organizacji, rejestr UPO
 ```
 
